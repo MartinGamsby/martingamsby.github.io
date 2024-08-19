@@ -22,7 +22,6 @@
 {%- assign post_image = post.excerpt_image
   | default: post.banner.image
   | default: post.banner
-  | default: default_image
   | default: 'NO_EXCERPT_IMAGE' -%}
 
 <li class="post-item {{ post_item_class }}">
