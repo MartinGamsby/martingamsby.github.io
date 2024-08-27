@@ -1,0 +1,19 @@
+---
+layout: post
+title: Gandalf m’a réconcilié avec la vie
+subtitle: Certains INTP FICTIFS célèbres sont: Sherlock Holmes, Neo (La Matrice/Matrix), et Gandalf.
+categories: Article,Gamsblurb
+tags: [Gandalf,Myers-Briggs,Purpose,Personnalités,Gamsblurb]
+banner:
+  image: https://miro.medium.com/v2/resize:fit:720/format:webp/1*-qsTZ5HeqE_cDqj5JOaLeQ.jpeg
+  
+---
+
+# Gandalf m’a réconcilié avec la vie
+
+Contenu disponible:
+- [Version complète: Medium](https://medium.com/@martin.gamsby/gandalf-ma-r%C3%A9concili%C3%A9-avec-la-vie-4e629cf3f8a7)
+- [Version courte: X](https://x.com/MartinGamsby/status/1828416284746191223)
+- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/gandalf-reconciled-me-with-life)
+
+
