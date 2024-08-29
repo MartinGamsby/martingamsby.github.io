@@ -11,7 +11,7 @@ banner:
 # Gandalf m’a réconcilié avec la vie
 
 - [Version complète: Medium](https://medium.com/@martin.gamsby/gandalf-ma-r%C3%A9concili%C3%A9-avec-la-vie-4e629cf3f8a7)
-- [Version courte: X](https://x.com/MartinGamsby/status/1828416284746191223)
+- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1828416284746191223)
 - [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/gandalf-reconciled-me-with-life)
 
 
