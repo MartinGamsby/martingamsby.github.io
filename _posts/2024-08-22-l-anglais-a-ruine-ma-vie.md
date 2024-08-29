@@ -2,7 +2,7 @@
 layout: post
 title: L'anglais a ruiné ma vie
 subtitle: Pourquoi je ne vais jamais apprendre un autre language
-categories: [Article,Français,Anglais,Gamsblurb]
+categories: [Longueur: Court,Langue: Français,Langue: Anglais,Gamsblurb]
 tags: [Écrire,Créer,Musique,YouTube,Anglais,Gamsblurb]
 banner:
   image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm061d3ao001wkz0crx1rapup/preview-image-mXissGlLYzKXW41x1aPKEnU1FNDoGS.jfif
