@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Gandalf m'a réconcilié avec la vie
-categories: [Article,Gamsblurb]
-tags: [Magie,Myers-Briggs,Personnalités,Raison d'Être,Purpose,Ikigai,Français,Anglais,Gamsblurb]
+categories: [Article,Français,Anglais,Gamsblurb]
+tags: [Magie,Myers-Briggs,Personnalités,Raison d'Être,Purpose,Ikigai,Gamsblurb]
 banner:
   image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0cfphhf00lmlb0c67d036e8/preview-image-ZbYl0a55qAyhUN6BCOXlZ5YP58hVhB.jfif
   
