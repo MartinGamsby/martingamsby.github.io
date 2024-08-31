@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adaptation
+title: Le prix du Bitcoin peut-il être prédit, depuis le début ? https://
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
 tags: [Bitcoin,Crypto,Finance,Prédiction,NFA,Gamsblurb]
 banner:
@@ -8,7 +8,7 @@ banner:
   
 ---
 
-# Adaptation
+# Le prix du Bitcoin peut-il être prédit, depuis le début ? https://
 
 - [Version complète: Medium](https://medium.com/@martin.gamsby/le-prix-du-bitcoin-peut-il-%C3%AAtre-pr%C3%A9dit-depuis-le-d%C3%A9but-0b26758898e3)
 - [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1829873111346598237)
