@@ -3,8 +3,7 @@ layout: post
 title: Adaptation
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
 tags: [Parent,TDAH,Neurodiversité,Gamsblurb]
-banner:
-  image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0h0njjy00s4ml0cscbkstzr/preview-image-AYJWqweXuUVQzzqUYeAfy7zJKGvnk6.jpeg
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0h0njjy00s4ml0cscbkstzr/preview-image-AYJWqweXuUVQzzqUYeAfy7zJKGvnk6.jpeg
   
 ---
 
