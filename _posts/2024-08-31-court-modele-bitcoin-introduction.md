@@ -3,8 +3,7 @@ layout: post
 title: Le prix du Bitcoin peut-il être prédit, depuis le début ? https://
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
 tags: [Bitcoin,Crypto,Finance,Prédiction,NFA,Gamsblurb]
-banner:
-  image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0i6faj0013wmr0coj23l5d0/preview-image-L5vtElMTNvBkyNPJdDXdwSL5kq3Lza.png
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0i6faj0013wmr0coj23l5d0/preview-image-L5vtElMTNvBkyNPJdDXdwSL5kq3Lza.png
   
 ---
 
