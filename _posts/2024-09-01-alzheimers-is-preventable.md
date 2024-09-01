@@ -3,7 +3,7 @@ layout: post
 title: L'Alzheimer peut être évité
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
 tags: [Alzheimer,Santé,Exercice,Sommeil,Alimentation,Gamsblurb]
-excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0i6faj0013wmr0coj23l5d0/preview-image-L5vtElMTNvBkyNPJdDXdwSL5kq3Lza.png
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0jjyse701smjz0cl4uuk5xy/preview-image-EeDFBF6JhEooBosvqvy1iqSa4mzxeN.jfif
 
 ---
 
