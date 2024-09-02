@@ -1,7 +1,16 @@
+{%- assign post_image = post.excerpt_image
+  | default: 'NO_EXCERPT_IMAGE' -%}
+  
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+    
     <div class="post-content e-content" itemprop="articleBody">
 
+        {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
+        <div  style="flex: 0 1 38%">
+          <div style="background-image: url({{ post_image }}); height: 160px"></div>
+        </a>
+        {%- endif -%}
+        
       {{ content }}
 
     </div>
