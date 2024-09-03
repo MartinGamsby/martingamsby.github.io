@@ -1,4 +1,4 @@
-{%- assign date_format = site.yat.date_format | default: "%b %-d, %Y" -%}
+{%- assign date_format = site.yat.date_format | default: "%-d %b %Y" -%}
 
 {%- assign article = post.content -%}
 {%- assign lang = post.lang -%}
@@ -44,7 +44,7 @@
     </a>
     {%- endif -%}
     <a class="post-text" href="{{ post_url }}">
-      <p>{{ article_excerpt }} <span class="read_more"> (Read More)</span></p>
+      <p>{{ article_excerpt }} <span class="read_more"> (Lire la suite)</span></p>
     </a>
   </div>
   <div class="post-tags">
