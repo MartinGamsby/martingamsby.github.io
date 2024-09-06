@@ -3,7 +3,8 @@ layout: post
 title: Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard.
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
 tags: [Finance,Santé,Soin Personnel,Santé Mentale,Productivité,Stress,Relaxation,Gamsblurb]
-  
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0pysw6n0213kz0cru8vdzfd/preview-image-YQ1xYBhkLp7wjEXXgpllN6ATULINRT.jfif
+
 ---
 
 ### **Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard.**
