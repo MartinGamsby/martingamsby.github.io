@@ -2,15 +2,54 @@
 layout: post
 title: Adaptation
 categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
-tags: [Parent,TDAH,Neurodiversité,Gamsblurb]
+tags: [Parent,Enfant,TDAH,Neurodiversité,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0h0njjy00s4ml0cscbkstzr/preview-image-AYJWqweXuUVQzzqUYeAfy7zJKGvnk6.jpeg
   
 ---
 
 # Adaptation
 
+Je croyais que les enfants devaient s’adapter à leurs parents.
+
+Maintenant que je suis parent, je sais que c’est l’inverse.
+
+Pas tous les parents le comprennent, mais c’est ce qui doit arriver.
+
+Le rôle du parent, ce n’est pas de modeler l’enfant, mais de l’accompagner.
+
+Et l’enfant a des caractéristiques qui peuvent être complètement différentes des parents.
+
+Et l’enfant ne devrait pas se transformer en son parent, mais le parent devrait s’adapter à son enfant.
+
+Je pense à des choses comme l’anxiété, mais aussi la curiosité.
+
+Je pense à des choses comme la peur, mais aussi l’ambition.
+
+Je ne peux pas tout lister ici, mais le parent doit s’adapter.
+
+D’autres conditions peuvent être plus importantes, plus cruciales, comme l’autisme ou le TDAH, par exemple.
+
+Et si vous n’êtes pas d’accord, si vous pensez pouvoir “briser le TDAH” de votre enfant…
+
+Voici un autre exemple:
+
+Admettons que votre enfant naisse aveugle.
+
+Allez-vous penser “ben voyons, c’est facile marcher, prendre des trucs, c’est quoi ton problème”.
+
+Non, vous allez voir qu’il est aveugle, et vous allez apprendre toutes sortes de choses sur le sujet, et vous allez adapter votre vie pour l’aider.
+
+On ne choisit pas d’être aveugle.
+
+Comme on ne choisit pas d’avoir des différences de personnalités,
+
+des différences de neurodiversité,
+
+des différences de besoins…
+
+---
+
 - [Version complète: Medium](https://medium.com/@martin.gamsby/adaptation-93a04ee65a71)
 - [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1829630674560835762)
 - [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/adaptation)
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Je croyais que les enfants devaient s&#39;adapter à leurs parents. Maintenant que je suis parent, je sais que c&#39;est l&#39;inverse.<a href="https://t.co/HDGVtsvJT6">https://t.co/HDGVtsvJT6</a></p>&mdash; Martin Gamsby (@MartinGamsby) <a href="https://twitter.com/MartinGamsby/status/1829630674560835762?ref_src=twsrc%5Etfw">August 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
