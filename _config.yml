@@ -43,7 +43,7 @@ author: Martin Gamsby
 copyright: "(c) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Curiosités, Code, Développement personnel/logiciel, Chiffres, Anthropologie, Personnalités, Civilisation, Agriculture régénérative, Méta-formule, Urbanisme, et peut-être même Bitcoin… tout est connecté.
+  Tout est connecté: Développement personnel/logiciel, Personnalités, Chiffres, Anthropologie, Méta-formule, Curiosités, Algorithmes, Agriculture, Urbanisme…
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
