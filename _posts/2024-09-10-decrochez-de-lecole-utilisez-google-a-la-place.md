@@ -1,70 +1,70 @@
 ---
 layout: post
-title: Décrochez de l'école, utilisez Google à la place?
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
-tags: [École,Apprendre,Développement Logiciel,Programmation,Travail,Gamsblurb]
+title: DÃ©crochez de l'Ã©cole, utilisez Google Ã  la place?
+categories: ["Longueur: Court","Langue: FranÃ§ais","Langue: Anglais","Gamsblurb"]
+tags: [Ã‰cole,Apprendre,DÃ©veloppement Logiciel,Programmation,Travail,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0x5rffm006rid0clgji46n3/preview-image-1jQs1eQ9RoWfmQxE4XcAO39KUki6QW.jfif
 
 ---
 
-### **Décrochez de l'école, utilisez Google à la place?**
+### **DÃ©crochez de l'Ã©cole, utilisez Google Ã  la place?**
 
 J'avoue que je suis d'accord ... un peu.
 
-(J'ai vu quelqu'un dire ça aujourd'hui: L'école c'est inutile, utilisez Google, parce que le mieux, c'est l'EXPÉRIENCE.)
+(J'ai vu quelqu'un dire Ã§a aujourd'hui: L'Ã©cole c'est inutile, utilisez Google, parce que le mieux, c'est l'EXPÃ‰RIENCE.)
 
-Commençons par le côté facile: oui, c'est mieux de devenir vendeur que d'étudier sur la vente.
+CommenÃ§ons par le cÃ´tÃ© facile: oui, c'est mieux de devenir vendeur que d'Ã©tudier sur la vente.
 Du moins pour ~99% des gens.
 
-Même chose pour plusieurs métiers.
+MÃªme chose pour plusieurs mÃ©tiers.
 
-Mais de là à affirmer que l'école est inutile, alors là non.
+Mais de lÃ  Ã  affirmer que l'Ã©cole est inutile, alors lÃ  non.
 
-Je peux aller à l'extrême: pas besoin d'aller à l'école pour être coiffeuse, va l'apprendre avec une vraie coiffeuse.
+Je peux aller Ã  l'extrÃªme: pas besoin d'aller Ã  l'Ã©cole pour Ãªtre coiffeuse, va l'apprendre avec une vraie coiffeuse.
 ok ... je peux comprendre.
 
 Mais comment elle va faire, si elle ne sait pas lire?
 Ni compter?
 
-Elle va devoir se fier sur quelqu'un pour tout ça?
+Elle va devoir se fier sur quelqu'un pour tout Ã§a?
 
-Et cette personne, elle est allée à l'école?
+Et cette personne, elle est allÃ©e Ã  l'Ã©cole?
 
-## Bon, d'accord, je parle là de l'école primaire et secondaire.
+## Bon, d'accord, je parle lÃ  de l'Ã©cole primaire et secondaire.
 
-Accordons-lui cette nuance, pas si nuancée en fait: l'école, c'est large...
+Accordons-lui cette nuance, pas si nuancÃ©e en fait: l'Ã©cole, c'est large...
 
-Donc parlons de l'école post-secondaire.
+Donc parlons de l'Ã©cole post-secondaire.
 
-Oui, l'école a été trop poussée. Ce n'est pas parce qu'on va à l'école post-secondaire qu'on va être meilleur à notre première job, ni même de meilleures conditions.
+Oui, l'Ã©cole a Ã©tÃ© trop poussÃ©e. Ce n'est pas parce qu'on va Ã  l'Ã©cole post-secondaire qu'on va Ãªtre meilleur Ã  notre premiÃ¨re job, ni mÃªme de meilleures conditions.
 
-Mais certains emplois, certaines carrières ont besoin de l'école.
+Mais certains emplois, certaines carriÃ¨res ont besoin de l'Ã©cole.
 
-Je ne veux pas que mon médecin apprenne sur Google.
+Je ne veux pas que mon mÃ©decin apprenne sur Google.
 
 Je ne veux pas que nos ponts soient faits par essai-erreur.
 
-Et en tant que développeur logiciel ayant étudié 7 ans post-secondaire, je vois qu'il y a des emplois qui sont des zones grises.
+Et en tant que dÃ©veloppeur logiciel ayant Ã©tudiÃ© 7 ans post-secondaire, je vois qu'il y a des emplois qui sont des zones grises.
 
-Oui, on peut faire des prototypes rapidement sans aller à l'université pour apprendre à "coder".
+Oui, on peut faire des prototypes rapidement sans aller Ã  l'universitÃ© pour apprendre Ã  "coder".
 
-Mais j'ai appris une tonne de choses à l'école qui me servent à tous les jours.
+Mais j'ai appris une tonne de choses Ã  l'Ã©cole qui me servent Ã  tous les jours.
 
-Je n'aurais pas pu apprendre tout ça avec l'expérience, ou du moins, ça aurais pris une vie pour l'apprendre.
+Je n'aurais pas pu apprendre tout Ã§a avec l'expÃ©rience, ou du moins, Ã§a aurais pris une vie pour l'apprendre.
 
-Et je ne veux pas former quelqu'un sur quelque chose qui est connu, qui pourrait facilement être appris à l'école.
+Et je ne veux pas former quelqu'un sur quelque chose qui est connu, qui pourrait facilement Ãªtre appris Ã  l'Ã©cole.
 
 ## Je vais reformuler ce que cette personne dit:
 
-Avant d'envisager des études supérieures, vérifie si ça fait du sens d'y aller. 
-Peut-être que tu peux aller plus vite.
-Peut-être pas.
-Peut-être que si tu vas plus vite, ça va revenir te hanter très bientôt.
+Avant d'envisager des Ã©tudes supÃ©rieures, vÃ©rifie si Ã§a fait du sens d'y aller. 
+Peut-Ãªtre que tu peux aller plus vite.
+Peut-Ãªtre pas.
+Peut-Ãªtre que si tu vas plus vite, Ã§a va revenir te hanter trÃ¨s bientÃ´t.
 
-Tout le monde est différent.
-Tous les emplois sont différents.
-Personne n'est dans les mêmes circonstances.
-Arrêtez de généraliser.
+Tout le monde est diffÃ©rent.
+Tous les emplois sont diffÃ©rents.
+Personne n'est dans les mÃªmes circonstances.
+ArrÃªtez de gÃ©nÃ©raliser.
 
 Et comme dirait l'autre: La seule chose qui est constante, c'est le changement.
 

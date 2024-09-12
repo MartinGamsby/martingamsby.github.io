@@ -2,7 +2,7 @@
 layout: post
 title: Shtandartisation
 categories: ["Longueur: Mini","Langue: Français","Langue: Anglais","Gamsblurb"]
-tags: [Nouveau mot,Néologisme,XKCD,Gamsblurb]
+tags: [Nouveau Mot,Néologisme,XKCD,Gamsblurb]
 excerpt_image: https://imgs.xkcd.com/comics/standards_2x.png
   
 ---
