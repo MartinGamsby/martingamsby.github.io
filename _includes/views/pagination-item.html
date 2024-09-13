@@ -2,6 +2,8 @@
 
 {%- assign article = post.content -%}
 {%- assign lang = post.lang -%}
+{%- include functions.html func='get_reading_time' -%}
+{%- assign reading_time = return -%}
 
 {%- include functions.html func='get_article_excerpt' -%}
 {%- assign article_excerpt = return -%}
@@ -22,7 +24,8 @@
 {%- assign post_image = post.excerpt_image
   | default: post.banner.image
   | default: post.banner
-  | default: 'NO_EXCERPT_IMAGE' -%}
+  | default: default_image
+  | default: '/assets/images/default-image.jpeg' -%}
 
 <li class="post-item {{ post_item_class }}">
   <h2 class="post-title">
@@ -36,6 +39,7 @@
     {%- if post.author -%}
     <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.author | escape }}</span>
     {%- endif -%}
+    <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
   </div>
   <div class="post-excerpt">
     {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}

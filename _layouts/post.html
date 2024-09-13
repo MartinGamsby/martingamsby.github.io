@@ -22,16 +22,7 @@ sidebar:
     {%- if banner == nil and result.size == 0 -%}
     {%- include views/post-header.html -%}
     {%- endif -%}
-    
-    {%- assign post_image = page.excerpt_image
-        | default: 'NO_EXCERPT_IMAGE' -%}
-  
-    {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
-    <div  style="float:left; width: 42%;">
-      <div style="background-image: url({{ post_image }}); height: 16rem; background-size:contain; background-position: right bottom; margin: 9px; background-repeat: no-repeat;"></div>
-    </div>
-    {%- endif -%}
-    
+
     {%- include views/article.html -%}
 
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
