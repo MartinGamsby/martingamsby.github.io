@@ -1,3 +1,9 @@
+
+{%- assign post_image = post.excerpt_image
+  | default: post.banner.image
+  | default: post.banner
+  | default: 'NO_EXCERPT_IMAGE' -%}
+
 <style type="text/css" media="screen">
 .post-menu ul {
   list-style: none;
@@ -6,7 +12,14 @@
 }
 </style>
 
-<div class="post-menu">
+<div class="post-menu"> 
+    {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
+    <div>
+    <a  class="post-image" href="{{ post_url }}" style="flex: 0 1 {{ image_width }}">
+      <div style="background-image: url({{ post_image | relative_url }}); height: {{ image_height }}"></div>
+    </a>
+    </div>
+    {%- endif -%}
   <div class="post-menu-title">Table des matières</div>
   <div class="post-menu-content"></div>
 </div>
