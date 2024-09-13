@@ -27,7 +27,7 @@ sidebar:
         | default: 'NO_EXCERPT_IMAGE' -%}
   
     {%- assign post_ref = page.ref
-      | default: '' -%}
+      | default: 'NO_REF' -%}
 
     {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
     <div  style="float:left; width: 42%;">
@@ -35,10 +35,10 @@ sidebar:
     </div>
     {%- endif -%}
     
-    {%- if post_ref and post_ref != 'NO_EXCERPT_IMAGE' -%}
-    <a href="{{ post_ref }}">
+    {%- if post_ref and post_ref != 'NO_REF' -%}
+    <a href="{{ post_ref }}" style="float:left">
       (English)
-    </div>
+    </a>
     {%- endif -%}
     
     {%- include views/article.html -%}
