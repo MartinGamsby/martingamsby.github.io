@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Gandalf m'a réconcilié avec la vie
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Magie,Myers-Briggs,Personnalités,Raison d'Être,Purpose,Ikigai,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0cfphhf00lmlb0c67d036e8/preview-image-ZbYl0a55qAyhUN6BCOXlZ5YP58hVhB.jfif
-  
+ref: https://martingamsby.github.io/en/english-ruined-my-life
+
 ---
 
-# Gandalf m’a réconcilié avec la vie
+### **Gandalf m'a réconcilié avec la vie**
 
 Le Myers-Briggs est une pseudoscience, qui met l’humanité dans 16 cases. Quatre catégories, deux choix par catégories, ça donne 16 personnalités avec 4 lettres. Je n’entrerai pas dans les détails de la “pseudoscience”, mais disons que je m’identifie aux INTP.
 
@@ -30,6 +31,8 @@ Mais (quand le monde n’est pas en danger) il fait plaisir aux hobbits en faisa
 Et ça lui fait plaisir.
 
 Et c’est tout.
+
+
 
 ---
 

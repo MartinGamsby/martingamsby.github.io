@@ -1,12 +1,16 @@
 ---
 layout: post
 title: L'anglais a ruiné ma vie
-subtitle: Pourquoi je ne vais jamais apprendre un autre language
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Écrire,Créer,Musique,YouTube,Anglais,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm061d3ao001wkz0crx1rapup/preview-image-mXissGlLYzKXW41x1aPKEnU1FNDoGS.jfif
-  
+ref: https://martingamsby.github.io/en/gandalf-reconciled-me-with-life
+
 ---
+
+### **L'anglais a ruiné ma vie**
+
+
 
 # Pourquoi je ne vais jamais apprendre un autre language
 
@@ -79,6 +83,8 @@ Allez-y.
 Vaut mieux que 2 personnes lisent votre texte en néerlandais, plutôt que zéro en anglais, puisque le texte ne se fera pas si vous attendez le moment parfait pour l’écrire en toutes les langues.
 
 J’espère que je vais réussir à faire la même chose pour ce texte…
+
+
 
 ---
 
