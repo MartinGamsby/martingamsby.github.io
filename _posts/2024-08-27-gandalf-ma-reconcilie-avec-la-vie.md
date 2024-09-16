@@ -4,7 +4,7 @@ title: Gandalf m'a réconcilié avec la vie
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Magie,Myers-Briggs,Personnalités,Raison d'Être,Purpose,Ikigai,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0cfphhf00lmlb0c67d036e8/preview-image-ZbYl0a55qAyhUN6BCOXlZ5YP58hVhB.jfif
-ref: https://martingamsby.github.io/en/english-ruined-my-life
+ref: https://martingamsby.github.io/en/gandalf-reconciled-me-with-life
 
 ---
 
