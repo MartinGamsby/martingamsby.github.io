@@ -70,5 +70,7 @@ Je suis même tenté d'écrire un livre sur le sujet, tant c'est une idée profo
 ---
 
 - [X/Twitter](https://x.com/MartinGamsby/status/1835762891221275007)
+- [LinkedIn](https://www.linkedin.com/posts/martingamsby_une-id%C3%A9e-qui-r%C3%A8gle-tout-provenant-de-20-activity-7241558755887190018-0K04?utm_source=share&utm_medium=member_desktop)
 - [Medium](https://medium.com/@martin.gamsby/une-id%C3%A9e-qui-r%C3%A8gle-tout-provenant-de-20-ans-dapprentissages-4e5782ead6e2)
+- [Facebook](https://www.facebook.com/share/XTtmzCwMbbBhmCua/)
 
