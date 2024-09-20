@@ -1,15 +1,16 @@
 ---
 layout: post
 title: L'Alzheimer peut être évité
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Alzheimer,Santé,Exercice,Sommeil,Alimentation,Le Saviez-Vous,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0jjyse701smjz0cl4uuk5xy/preview-image-EeDFBF6JhEooBosvqvy1iqSa4mzxeN.jfif
+ref: https://martingamsby.github.io/en/alzheimers-can-be-prevented
 
 ---
 
-# L'Alzheimer peut être évité
+### **L'Alzheimer peut être évité**
 
-***“Tu as un gros ventre? Ton cerveau est affecté”*** (Traduction libre de “You have belly fat? That’s brain damage”, c’est étonnamment difficile à traduire, j’aime mieux la version anglaise…)
+> “Tu as un gros ventre? Ton cerveau est affecté”*** (Traduction libre de “You have belly fat? That’s brain damage”, c’est étonnamment difficile à traduire, j’aime mieux la version anglaise…)
 
 J’ai toujours cru que l'Alzheimer était juste un fait de la vie.
 
@@ -37,10 +38,10 @@ Mais voici les points saillants que j’ai trouvé:
 **4.2. Bien Manger**: D’où la citation au début: “Tu as un gros ventre? Ton cerveau est affecté”. Le sucre est une des pires choses dans notre alimentation (surtout le sucre ajouté). On pense que les gens affectés d’Alzheimer sont de plus en plus portés à manger plus de sucre, parce que c’est un “appel à l’aide” de leur cerveau, qui ont besoin de plus d’énergie, et ça tombe dans un cercle vicieux.  
 **4.3. Bien Dormir**: Dormir aide à éliminer les déchets du cerveau (entre autres choses).
 
-Ça peut être épeurant de penser que ça commence dans la vingtaine, mais ça veut aussi dire qu’on peut aider tôt\! Et faire des actions préventives contre l’Alzheimer aide aussi à la qualité de vie en général.  
+Ça peut être épeurant de penser que ça commence dans la vingtaine, mais ça veut aussi dire qu’on peut aider tôt\! Et faire des actions préventives contre l’Alzheimer aide aussi à la qualité de vie en général.
 
 ---
 
-- [Version complète: Medium](https://medium.com/@martin.gamsby/lalzheimer-peut-%C3%AAtre-%C3%A9vit%C3%A9-1e49aaef7e37)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1830221942001144163)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/alzheimers-can-be-prevented)
+- [Medium](https://medium.com/@martin.gamsby/lalzheimer-peut-%C3%AAtre-%C3%A9vit%C3%A9-1e49aaef7e37)
+- [X/Twitter](https://x.com/MartinGamsby/status/1830221942001144163)
+
