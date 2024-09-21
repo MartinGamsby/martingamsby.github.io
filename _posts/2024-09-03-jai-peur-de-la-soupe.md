@@ -1,11 +1,13 @@
 ---
 layout: post
 title: J'ai peur de la soupe
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Gluten,Santé,Alimentation,Gamsblurb]
-excerpt_image: https://scontent.fymq2-1.fna.fbcdn.net/v/t39.30808-6/458394405_8528781330494785_7105921409625632597_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UGNJzK1L074Q7kNvgF6G80i&_nc_ht=scontent.fymq2-1.fna&_nc_gid=AJ8SYx0ZsiHxKLDPqg1w8ax&oh=00_AYBBzZXFG6mtYpiikwc7XZAZnN8B3iV5qvWIMJDE7Av8Pw&oe=66DC347D
-  
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0mufr5g00mmmk0dwn5j2lzh/preview-image-4f7FHwEjx67FoKhUwEtRPyl3Mvy6JM.jfif
+ref: https://martingamsby.github.io/en/im-afraid-of-soup
+
 ---
+
 ### **J'ai peur de la soupe**
 
 Aujourd’hui je préparais une soupe aux nouilles pour mes filles, puis j'ai reçu une goutte de bouillon dans l'œil.
@@ -28,12 +30,9 @@ Tout ça pour dire que tous ceux qui pensent que le gluten, c'est juste une mode
 
 Oui, Karen a peut-être le goût de manger sans gluten pour la tendance, mais il y a un réel problème caché derrière cette mode. Et ce n'est pas juste "un mal de ventre" ou des petits symptômes ridicules.
 
-
 ---
 
-- [Version complète: Medium](https://medium.com/@martin.gamsby/jai-peur-de-la-soupe-28ef433ec9a4)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1830765243309375973)
-- [Version complète: Facebook](https://www.facebook.com/share/MnicxC7zV5uRU8Ry/)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/im-afraid-of-soup)
+- [Medium](https://medium.com/@martin.gamsby/jai-peur-de-la-soupe-28ef433ec9a4)
+- [X/Twitter](https://x.com/MartinGamsby/status/1830765243309375973)
+- [Facebook](https://www.facebook.com/share/MnicxC7zV5uRU8Ry/)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmartin.gamsby%2Fposts%2F8528497513856500&show_text=true&width=500" width="500" height="718" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
