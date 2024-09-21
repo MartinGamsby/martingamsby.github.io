@@ -2,7 +2,7 @@
 layout: post
 title: Diabète de type 3 ? Vous l'avez probablement
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Alzheimer,Le Saviez-Vous,Allimentation,Science,,Gamsblurb]
+tags: [Alzheimer,Le Saviez-Vous,Allimentation,Science,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1c5nc7s012djo0c8xkf7oqi/preview-image-gYRkYBgGvz8lWgxPZUQPJbKWf8zjOd.jfif
 ref: https://martingamsby.github.io/en/type-3-diabetes-you-probably-have-it
 
