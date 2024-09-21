@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard.
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Finance,Santé,Soin Personnel,Santé Mentale,Productivité,Stress,Relaxation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0pysw6n0213kz0cru8vdzfd/preview-image-YQ1xYBhkLp7wjEXXgpllN6ATULINRT.jfif
+ref: https://martingamsby.github.io/en/sometimes-self-care-means-doing-the-things-youve-been-putting-off
 
 ---
 
@@ -38,6 +39,5 @@ Quand ce sera fait, vos techniques de relaxation vont être beaucoup plus effica
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-%C3%A0-plus-tard-c5654a7c889f)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1831848434325975124)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/sometimes-self-care-means-doing-the-things-youve-been-putting-off)
+- [X/Twitter](https://x.com/MartinGamsby/status/1831848434325975124)
 
