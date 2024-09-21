@@ -10,11 +10,9 @@ ref: https://martingamsby.github.io/en/electricity-germs-religion-pork-power-wit
 
 ### **Électricité, germes, religion, porc, pouvoir, sorcières, révolution et prospérité**
 
-
-
 > Si vous pouviez ramener une technologie 100 ans en arrière avant son invention, que choisiriez-vous (par exemple, la machine à vapeur a été brevetée en 1698, vous retournez donc en 1598 et diffusez la technologie de la machine à vapeur)
 
-*Voici une discussion que j'ai eue autour de cette questio, traduite de l'anglais:*
+*Voici une discussion que j'ai eue autour de cette question, traduite de l'anglais:*
 
 #### Moi :
 
