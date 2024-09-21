@@ -2,8 +2,8 @@
 layout: post
 title: Diabète de type 3 ? Vous l'avez probablement
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [,Gamsblurb]
-excerpt_image: https://typeshare.co/martingamsby/posts/type-3-diabetes-you-probably-have-it
+tags: [Alzheimer,Le Saviez-Vous,Allimentation,Science,,Gamsblurb]
+excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1c5nc7s012djo0c8xkf7oqi/preview-image-gYRkYBgGvz8lWgxPZUQPJbKWf8zjOd.jfif
 ref: https://martingamsby.github.io/en/type-3-diabetes-you-probably-have-it
 
 ---
@@ -16,7 +16,7 @@ Certains appellent la maladie d'Alzheimer le « diabète de type 3 ».
 
 Elle commence à 20 ans, vous l'avez donc probablement déjà.
 
-Sauf si vous:
+#### Sauf si vous:
 
 1. Faites de l'exercice tous les jours
 - et à haute intensité plusieurs fois par semaine
