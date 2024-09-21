@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Quand les gens sous-estiment le pouvoir d'Excel
-categories: ["Longueur: Court","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Excel,Spreadsheet,Tutoriel Excel,Années 90,Humour Excel,Gamsblurb]
-  
+excerpt_image: 
+ref: https://martingamsby.github.io/en/when-people-underestimate-the-power-of-excel
+
 ---
+
 ### **Quand les gens sous-estiment le pouvoir d'Excel**
 
 J’ai vu une annonce de Microsoft, montrant Excel, en 1990.
@@ -25,12 +28,8 @@ Bref, je l’ai fait en vidéo. La voici:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D0Cs1Qmn5FE?si=TVwpKAwjU3Zoq3fV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ---
 
-- [ Medium](https://medium.com/@martin.gamsby/vous-serez-surpris-par-ce-que-lon-peut-faire-avec-excel-13c67b0ed306)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1831396595465896365)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/you-will-be-surprised-by-what-can-be-done-with-excel)
-- [Version anglaise courte: Linkedin](https://www.linkedin.com/posts/martingamsby_you-will-be-surprised-by-what-can-be-done-activity-7237165261743640577-FhqZ?utm_source=share&utm_medium=member_desktop)
+- [Medium](https://medium.com/@martin.gamsby/vous-serez-surpris-par-ce-que-lon-peut-faire-avec-excel-13c67b0ed306)
+- [X/Twitter](https://x.com/MartinGamsby/status/1831396595465896365)
 
