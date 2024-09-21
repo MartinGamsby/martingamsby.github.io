@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Depuis quand le développement personnel est négatif?
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé Mentale,Productivité,Développement Personnel,Développement Collectif,Communauté,Entraide,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0r3zipv016eml0cl0mbyfhj/preview-image-kWI9H9m8mU0aBKbkuQSAh4mIvs2zuv.jpg
+ref: https://martingamsby.github.io/en/since-when-did-self-help-become-negative
 
 ---
 
-# Depuis quand le développement personnel est négatif?
+### **Depuis quand le développement personnel est négatif?**
 
 J’ai entendu récemment que les réponses à l’embellissement de notre société devraient être collectives, pas individuelles.
 
@@ -35,10 +36,9 @@ Mais l’inverse est aussi vrai.
 
 Comme dans toutes les sphères de la vie, tout doit être fait avec modération. L’équilibre du tout est plus important que la force de chaque aspect.
 
-
 ---
 
-- [Medium](https://medium.com/@martin.gamsby/depuis-quand-le-d%C3%A9veloppement-personnel-est-n%C3%A9gatif-d22a42f7763b)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1832138528685191562)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/depuis-quand-le-developpement-personnel-est-negatif)
 - [Où j'ai vu ça](https://www.youtube.com/shorts/hULdTrRd7N4)
+- [Medium](https://medium.com/@martin.gamsby/depuis-quand-le-d%C3%A9veloppement-personnel-est-n%C3%A9gatif-d22a42f7763b)
+- [X/Twitter](https://x.com/MartinGamsby/status/1832138528685191562)
+
