@@ -10,6 +10,8 @@ ref: https://martingamsby.github.io/en/a-moving-city
 
 ### **Une ville roulante**
 
+
+
 Et si les villes étaient sur des tapis roulants?
 
 Je m'explique:
@@ -39,10 +41,9 @@ D'ailleurs, si vous ne le saviez pas déjà, les banlieues avec des rangées de 
 
 Évidemment, ce n'est pas pratique, c'est juste un exercice!
 
-
-
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/une-ville-roulante-0ecd4f88845f)
 - [X/Twitter](https://x.com/MartinGamsby/status/1838938440559210678)
+- [Facebook](https://www.facebook.com/share/6MVfo6vi4g4kAM4x/)
 
