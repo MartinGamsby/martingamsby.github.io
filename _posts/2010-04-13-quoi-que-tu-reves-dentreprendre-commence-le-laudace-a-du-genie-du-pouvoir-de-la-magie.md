@@ -4,7 +4,7 @@ title: Quoi que tu rêves d’entreprendre, commence-le. L’audace a du génie,
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Citation,Créer,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/en/whatever-you-do-or-dream-you-can-do-begin-itboldness-has-genius-power-and-magic-in-it
+ref: https://martingamsby.github.io/en/whatever-you-do-or-dream-you-can-do-begin-it-boldness-has-genius-power-and-magic-in-it
 
 ---
 
