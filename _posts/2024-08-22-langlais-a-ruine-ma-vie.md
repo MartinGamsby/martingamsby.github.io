@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/en/english-ruined-my-life
 
 ### **L'anglais a ruiné ma vie**
 
-
-
 # Pourquoi je ne vais jamais apprendre un autre language
 
 Bonjour Hi,
@@ -84,11 +82,10 @@ Vaut mieux que 2 personnes lisent votre texte en néerlandais, plutôt que zéro
 
 J’espère que je vais réussir à faire la même chose pour ce texte…
 
-
-
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/langlais-a-ruin%C3%A9-ma-vie-c874cc6fac0a)
 - [X/Twitter](https://x.com/MartinGamsby/status/1826795404454998133)
 - [Typeshare](https://typeshare.co/martingamsby/posts/langlais-a-ruine-ma-vie)
 - [Typeshare en Anglais](https://typeshare.co/martingamsby/posts/english-ruined-my-life)
+

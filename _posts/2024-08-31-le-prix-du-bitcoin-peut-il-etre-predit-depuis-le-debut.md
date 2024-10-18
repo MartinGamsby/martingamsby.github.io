@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/en/can-bitcoin-price-be-predicted-from-the-b
 
 ### **Le prix du Bitcoin peut-il être prédit, depuis le début ?**
 
-
-
 J’ai fait un modèle du prix du Bitcoin.
 
 J’ai toujours trouvé les modèles soit très approximatifs, soit trop localisés (ne fonctionnent “qu’après le premier bull run”, “les premières années ne comptent pas”).

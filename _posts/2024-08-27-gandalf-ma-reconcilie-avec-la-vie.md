@@ -32,8 +32,6 @@ Et ça lui fait plaisir.
 
 Et c’est tout.
 
-
-
 ---
 
 - [Version complète: Medium](https://medium.com/@martin.gamsby/gandalf-ma-r%C3%A9concili%C3%A9-avec-la-vie-4e629cf3f8a7)

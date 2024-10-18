@@ -18,7 +18,6 @@ XKCD le montre bien, et j'ai décidé d'appeler ça la "shtandardisation".
 
 Source: https://xkcd.com/927/
 
-
 ---
 
 - [X/Twitter](https://x.com/MartinGamsby/status/1829312369555910687)
