@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Arrêtez le hustle culture, profitez des tâches ménagères
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé Mentale,Productivité,Développement Personnel,Habitudes,TDAH,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0srl4te0000lc0c80rery4e/preview-image-uIPnYyafTV1aZnpPzmuNeiLEN7g8ro.jpg
+ref: https://martingamsby.github.io/en/stop-hustling-enjoy-chores
 
 ---
 
@@ -34,3 +35,6 @@ Arrêtez de voter pour votre identité qui est toujours occupée.
 - [Medium](https://medium.com/@martin.gamsby/arr%C3%AAtez-le-hustle-culture-profitez-des-t%C3%A2ches-m%C3%A9nag%C3%A8res-73a998fdcf39)
 - [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1832574678654709928)
 - [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/stop-hustling-enjoy-chores)
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6s3qwewvo24)
+- [X/Twitter](https://x.com/MartinGamsby/status/1832574678654709928)
+
