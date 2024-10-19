@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Pourquoi le ciel est bleu? (Et tout le reste)
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Parent,Éducation,Science,Enfant,Curiosité,Apprendre,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0u0tmff002sl80clnfj5xm9/preview-image-BgyQ2Qh1IFY8Ch5ekAXLcLH5mL0gpB.jpg
+ref: https://martingamsby.github.io/en/why-is-the-sky-blue-and-everything-else
 
 ---
 
@@ -40,3 +41,6 @@ Par contre, mon autre fille est moins sûre d’elle, elle est anxieuse. Alors �
 - [Medium](https://medium.com/@martin.gamsby/pourquoi-le-ciel-est-bleu-et-tout-le-reste-e2c2a7a82892)
 - [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1832877162027729223)
 - [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/why-is-the-sky-blue-and-everything-else?publishSuccess=true&updatedAt=1725826994)
+- [X/Twitter](https://x.com/MartinGamsby/status/1832877162027729223)
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6s3zlpmlg2x)
+
