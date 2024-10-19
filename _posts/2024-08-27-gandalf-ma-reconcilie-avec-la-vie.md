@@ -36,4 +36,6 @@ Et c’est tout.
 
 - [X/Twitter](https://x.com/MartinGamsby/status/1828416284746191223)
 - [Medium](https://medium.com/@martin.gamsby/gandalf-ma-r%C3%A9concili%C3%A9-avec-la-vie-4e629cf3f8a7)
+- [Facebook](https://www.facebook.com/share/c8bt2BMtZZLj6Q3F/)
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6v7hb7c2m2p)
 
