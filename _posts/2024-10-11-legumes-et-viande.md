@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Légumes et viande
-categories: ["Longueur: Court", "Gamsblurb"]
+categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Alimentation,Santé,Régime alimentaire,Sensibilité alimentaire,Restrictions alimentaires,Problèmes de santé,Gluten,Régime d'élimination,Anxiété,Essais et erreurs,Isolement,Problèmes digestifs,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2551tnd00l6l80c9ag86pp5/preview-image-Pg7N3E4Mz7yogakkTyaxWsnV6XrlVw.webp
 ref: https://martingamsby.github.io/en/vegetables-and-meat

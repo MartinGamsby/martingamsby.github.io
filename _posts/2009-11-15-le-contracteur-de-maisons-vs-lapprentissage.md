@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Le contracteur de maisons vs l'apprentissage
-categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Blog,Anecdotes,Apprentissage,Construction,Pédagogie,Comparaison,Piano,Gamsblurb]
+categories: ["Longueur: Moyen", "Gamsblurb"]
+tags: [Gamsblog,Anecdotes,Apprentissage,Construction,Pédagogie,Comparaison,Piano,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/post/cm1u1fmeq0087jk0cq8b047cs/images/34ce129a-4c02-4680-b796-9297c1dc99cd-C5ipXh4CHl9Y61Mi2XUdhPMHmX9sZU.webp
 ref: https://martingamsby.github.io/en/the-house-contractor-vs-learning
 

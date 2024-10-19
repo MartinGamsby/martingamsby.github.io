@@ -2,7 +2,7 @@
 layout: post
 title: Commencez pour finir
 categories: ["Longueur: Moyen", "Gamsblurb"]
-tags: [Première étape,Objectifs,Ambition,Confiance,Croissance,Optimisme,Dynamisme,Développement Personnel,Blog,Gamsblurb]
+tags: [Première étape,Objectifs,Ambition,Confiance,Croissance,Optimisme,Dynamisme,Développement Personnel,Gamsblog,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2dnwpw3015sld0cxbr9qnbp/preview-image-CKhooz0ynaYbXvzF6Ald7zVIRpN1GF.png
 ref: https://martingamsby.github.io/en/start-to-finish
 

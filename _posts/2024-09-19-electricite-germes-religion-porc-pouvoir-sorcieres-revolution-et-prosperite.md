@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Électricité, germes, religion, porc, pouvoir, sorcières, révolution et prospérité
-categories: ["Longueur: Court", "Gamsblurb"]
+categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Électricité,Théorie des germes,Religion vs Science,Science,Religion,Autorité Ecclésiastique,Foi,Santé,Santé Publique,Changement Social,Politique,Mondialisation,Chasses aux sorcières,Éducation,Révolution,Endoctrinement,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm19vgnn3001ol70coar7yqcf/preview-image-bjxpv96zGQxeyEaybT0Zc3USloBQ3K.jfif
 ref: https://martingamsby.github.io/en/electricity-germs-religion-pork-power-witches-revolution-and-thriving

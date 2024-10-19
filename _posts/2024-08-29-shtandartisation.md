@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shtandartisation
-categories: ["Longueur: Mini", "Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Nouveau Mot,Néologisme,XKCD,Gamsblurb]
 excerpt_image: https://imgs.xkcd.com/comics/standards_2x.png
 ref: https://martingamsby.github.io/en/shtandartization

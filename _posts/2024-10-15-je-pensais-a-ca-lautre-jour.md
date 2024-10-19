@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Je pensais à ça l'autre jour...
-categories: ["Longueur: Court", "Gamsblurb"]
+categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Technologie,Téléphone,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/i-was-thinking-about-something-somewhat-that-the-other-day

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Avez vous peur ?
-categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Blog,Confiance en soi,Motivation,Développement personnel,Apprentissage,Estime de soi,Timidité,Français,Piano,Musique,Gamsblurb]
+categories: ["Longueur: Moyen", "Gamsblurb"]
+tags: [Gamsblog,Confiance en soi,Motivation,Développement personnel,Apprentissage,Estime de soi,Timidité,Français,Piano,Musique,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm210fp4100b6jy0e7siar6g6/preview-image-xrC3LK9RsV28UGtuXBnvqOBOmFKDcT.webp
 ref: https://martingamsby.github.io/en/are-you-afraid
 
