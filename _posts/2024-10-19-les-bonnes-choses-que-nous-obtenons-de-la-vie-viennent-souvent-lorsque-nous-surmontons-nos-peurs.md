@@ -2,7 +2,7 @@
 layout: post
 title: Les bonnes choses que nous obtenons de la vie viennent souvent lorsque nous surmontons nos peurs.
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Citation,Gamsblurb]
+tags: [Citation]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/the-good-things-we-get-from-life-often-come-when-we-overcome-our-fears
 
@@ -13,8 +13,6 @@ ref: https://martingamsby.github.io/en/the-good-things-we-get-from-life-often-co
 et une autre reliée en bonus:
 
 > "Les regrets que nous avons d’avoir posé certains gestes s’estompent à la longue. Ceux qui viennent de ce que nous n’avons pas fait hanteront toute notre vie.
-
-
 
 ---
 
