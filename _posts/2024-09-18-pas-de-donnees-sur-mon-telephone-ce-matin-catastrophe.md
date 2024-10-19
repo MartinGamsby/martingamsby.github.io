@@ -51,10 +51,6 @@ Une méditation, ou une période pour penser, à la fois.
 
 Allez, je retourne à mon train sans donnés, il reste 1h25...
 
-
-
-
-
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/pas-de-donn%C3%A9es-sur-mon-t%C3%A9l%C3%A9phone-ce-matin-catastrophe-2b5a18d63baf)

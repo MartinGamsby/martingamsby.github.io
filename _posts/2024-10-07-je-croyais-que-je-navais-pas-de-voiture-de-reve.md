@@ -2,7 +2,7 @@
 layout: post
 title: Je croyais que je n'avais pas de voiture de rêve...
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Voitures, Futur, Téléportation, Science,Gamsblurb]
+tags: [Voitures,Futur,Téléportation,Science,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/post/cm1z21oeu00hqjt0cd8m0xp4e/images/baeeed87-c861-40f1-b5bf-5754b641cc14-NRQxTJ99AnzbENDs30zUblT0LLwJ4l.jfif
 ref: https://martingamsby.github.io/en/i-thought-i-didnt-have-a-dream-car
 

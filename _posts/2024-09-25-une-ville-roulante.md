@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/en/a-moving-city
 
 ### **Une ville roulante**
 
-
-
 Et si les villes étaient sur des tapis roulants?
 
 Je m'explique:

@@ -2,7 +2,7 @@
 layout: post
 title: La méditation c'est facile, en fait.
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Méditation, Chade-Meng Tan, Respiration, Marche,Gamsblurb]
+tags: [Méditation,Chade-Meng Tan,Respiration,Marche,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1kr8jju00a3md0c8ceystn4/preview-image-x68xaM2B9PVsmYIYs9bWIEvDqaL9BQ.jfif
 ref: https://martingamsby.github.io/en/meditation-is-easy-actually
 

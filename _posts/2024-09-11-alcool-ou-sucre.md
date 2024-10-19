@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Alcool ou sucre?
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé,Addiction,Sucre,Alimentation,Alcool,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0xwrjka015aky0ch4g0yelq/preview-image-FQiZcXXyh6HfewpofAhzTLGIj5q361.jfif
+ref: https://martingamsby.github.io/en/alcohol-or-sugar
 
 ---
 
@@ -54,6 +55,4 @@ Soyons tous plus tolérants des autres, personne n'a les mêmes batailles.
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/alcohol-ou-sucre-21d7d12a819e)
-- [Typeshare](https://typeshare.co/martingamsby/posts/Alcool-or-sugar)
-
 
