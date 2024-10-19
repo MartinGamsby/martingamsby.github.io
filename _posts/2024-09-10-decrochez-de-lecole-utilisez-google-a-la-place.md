@@ -7,7 +7,7 @@ excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/
 
 ---
 
-### **Décrochez de l'école, utilisez Google à la place?**
+### **(NOT) Décrochez de l'école, utilisez Google à la place?**
 
 J'avoue que je suis d'accord ... un peu.
 
@@ -71,6 +71,6 @@ Et comme dirait l'autre: La seule chose qui est constante, c'est le changement.
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/d%C3%A9crochez-de-l%C3%A9cole-utilisez-google-%C3%A0-la-place-69bdfc7ddf6a)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1833671862473105772)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/drop-out-of-school-use-google-instead)
+- [X/Twitter](https://x.com/MartinGamsby/status/1833671862473105772)
+- [Typeshare](https://typeshare.co/martingamsby/posts/drop-out-of-school-use-google-instead)
 

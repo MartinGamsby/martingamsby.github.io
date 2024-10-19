@@ -38,7 +38,7 @@ Comme dans toutes les sphères de la vie, tout doit être fait avec modération.
 
 ---
 
-- [Où j'ai vu ça](https://www.youtube.com/shorts/hULdTrRd7N4)
+- [Source](https://www.youtube.com/shorts/hULdTrRd7N4)
 - [Medium](https://medium.com/@martin.gamsby/depuis-quand-le-d%C3%A9veloppement-personnel-est-n%C3%A9gatif-d22a42f7763b)
 - [X/Twitter](https://x.com/MartinGamsby/status/1832138528685191562)
 

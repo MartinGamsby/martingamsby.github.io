@@ -33,8 +33,6 @@ Arrêtez de voter pour votre identité qui est toujours occupée.
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/arr%C3%AAtez-le-hustle-culture-profitez-des-t%C3%A2ches-m%C3%A9nag%C3%A8res-73a998fdcf39)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1832574678654709928)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/stop-hustling-enjoy-chores)
 - [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6s3qwewvo24)
 - [X/Twitter](https://x.com/MartinGamsby/status/1832574678654709928)
 

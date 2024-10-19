@@ -54,7 +54,6 @@ Soyons tous plus tolérants des autres, personne n'a les mêmes batailles.
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/alcohol-ou-sucre-21d7d12a819e)
-- [Version courte: X/Twitter]()
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/Alcool-or-sugar)
+- [Typeshare](https://typeshare.co/martingamsby/posts/Alcool-or-sugar)
 
 

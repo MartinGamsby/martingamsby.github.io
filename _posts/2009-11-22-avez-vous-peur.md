@@ -63,6 +63,6 @@ Vous auriez pu ne pas le savoir, comme moi … Il m’a fallu un ange pour m’e
 
 ---
 
-- [Blog](https://blog.comment-apprendre.com/avez-vous-peur-d-apprendre/)
+- [Source](https://blog.comment-apprendre.com/avez-vous-peur-d-apprendre/)
 - [X/Twitter](https://x.com/MartinGamsby/status/1843783150885097849)
 

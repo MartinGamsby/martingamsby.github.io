@@ -39,8 +39,6 @@ Par contre, mon autre fille est moins sûre d’elle, elle est anxieuse. Alors �
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/pourquoi-le-ciel-est-bleu-et-tout-le-reste-e2c2a7a82892)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1832877162027729223)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/why-is-the-sky-blue-and-everything-else?publishSuccess=true&updatedAt=1725826994)
 - [X/Twitter](https://x.com/MartinGamsby/status/1832877162027729223)
 - [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6s3zlpmlg2x)
 

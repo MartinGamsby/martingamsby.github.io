@@ -39,8 +39,6 @@ Apprendre à se connaître remet les choses en perspective. Et on en a toujours 
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/la-programmation-un-rapport-amour-haine-90a7998b00ec)
-- [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1833139411216638067)
-- [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/programming-a-love-hate-relationship)
 - [Facebook](https://www.facebook.com/share/Bxq6Y8iR3dTMcwK3/)
 - [X/Twitter](https://x.com/MartinGamsby/status/1833139411216638067)
 - [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6upqdixtp2x)
