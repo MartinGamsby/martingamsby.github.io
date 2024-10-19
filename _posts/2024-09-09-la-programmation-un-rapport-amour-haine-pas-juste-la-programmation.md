@@ -1,13 +1,14 @@
 ---
 layout: post
-title: La programmation, un rapport amour-haine?
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+title: La programmation, un rapport amour-haine? (Pas juste la programmation)
+categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Programmation,Code,Développement Logiciel,Apprendre,C++,Humour,Développement Personnel,Personnalités,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0v2227100gul50cmkytgy2w/preview-image-ZoyiXQkxvoxQPqGWPpWVpHaGKPk4Po.jpg
+ref: https://martingamsby.github.io/en/programming-a-love-hate-relationship-not-just-programming
 
 ---
 
-### **La programmation, un rapport amour-haine?**
+### **La programmation, un rapport amour-haine? (Pas juste la programmation)**
 
 Vous avez déjà essayé de programmer?
 
@@ -35,9 +36,12 @@ Peut-être que ceux qui se détestent... Ne se connaissent pas bien?
 
 Apprendre à se connaître remet les choses en perspective. Et on en a toujours plus à apprendre, essayez-le.
 
-
 ---
 
 - [Medium](https://medium.com/@martin.gamsby/la-programmation-un-rapport-amour-haine-90a7998b00ec)
 - [Version courte: X/Twitter](https://x.com/MartinGamsby/status/1833139411216638067)
 - [Version anglaise: Typeshare](https://typeshare.co/martingamsby/posts/programming-a-love-hate-relationship)
+- [Facebook](https://www.facebook.com/share/Bxq6Y8iR3dTMcwK3/)
+- [X/Twitter](https://x.com/MartinGamsby/status/1833139411216638067)
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3l6upqdixtp2x)
+
