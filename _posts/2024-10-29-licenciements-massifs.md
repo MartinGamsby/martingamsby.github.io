@@ -2,7 +2,7 @@
 layout: post
 title: Licenciements massifs
 categories: ["Longueur: Mini", "Gamsblurb"]
-tags: [Anecdote, travail]
+tags: [Anecdote,travail]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/massive-layoff
 
