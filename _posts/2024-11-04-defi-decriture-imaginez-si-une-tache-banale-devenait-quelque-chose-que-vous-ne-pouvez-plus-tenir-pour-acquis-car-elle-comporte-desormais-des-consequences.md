@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Défi d'écriture : imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.
+title: Défi d'écriture; imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Écriture, Gluten, Gamsblurb]
+tags: [Écriture,Gluten,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/writing-challenge-imagine-if-a-mundane-task-became-something-you-can-no-longer-take-for-granted-because-now-it-comes-with-some-consequence
 
 ---
 
-### **Défi d'écriture : imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.**
+### **Défi d'écriture; imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.**
 
 Tournée de Beignes
 Pizza party
