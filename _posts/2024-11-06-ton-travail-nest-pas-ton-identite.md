@@ -2,7 +2,7 @@
 layout: post
 title: Ton travail n'est pas ton identité
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Identité, croissance, perspective, Gamsblurb]
+tags: [Identité,croissance,perspective,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/your-job-is-not-your-identity
 
@@ -21,7 +21,7 @@ Ne me fait pas dire ce que je n'ai pas dit : ces choses peuvent être importante
 Elles peuvent faire partie de toi (EN CE MOMENT)
 
 - Mais les choses changent
-- Vous changez
+- Tu change
 - Les gens changent
 - Le monde change
 
