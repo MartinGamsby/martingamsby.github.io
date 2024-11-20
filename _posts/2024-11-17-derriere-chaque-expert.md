@@ -2,7 +2,7 @@
 layout: post
 title: Derrière chaque expert
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Expert, Gamsblurb]
+tags: [Expert,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/behind-every-expert
 
