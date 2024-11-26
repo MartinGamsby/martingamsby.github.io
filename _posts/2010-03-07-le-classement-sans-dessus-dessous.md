@@ -4,7 +4,7 @@ title: Le classement sans dessus dessous
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Gamsblog,Organisation,Apprendre,Gamsblurb]
 excerpt_image: http://comment-apprendre.com/apprendre%20en%20gagnant%20du%20temps.jpg
-ref: https://martingamsby.github.io/en/the-upside-down-ranking
+ref: https://martingamsby.github.io/en/the-big-advantage-of-school
 
 ---
 

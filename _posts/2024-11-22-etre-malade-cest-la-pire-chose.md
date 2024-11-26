@@ -2,7 +2,7 @@
 layout: post
 title: Être malade, c'est la pire chose
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Un à la fois, Santé, Gamsblurb]
+tags: [Un à la fois,Santé,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/being-sick-is-the-worst
 

@@ -2,9 +2,9 @@
 layout: post
 title: Moins de classement pour un meilleur rendement ?
 categories: ["Longueur: Moyen", "Gamsblurb"]
-tags: [Apprentissage, Cerveau, Organisation, Gamsblog, Gamsblurb]
+tags: [Apprentissage,Cerveau,Organisation,Gamsblog,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/en/less-ranking-for-better-performance
+ref: https://martingamsby.github.io/en/the-big-advantage-of-school
 
 ---
 
@@ -39,8 +39,6 @@ Il y a donc le classement ordonné et le classement « désordonné ». Je sais 
 Selon votre manière de penser, vous allez comprendre avec un seul de vos hémisphères, ou les deux…
 
 P.P.S. Je vous explique le « classement désordonné » la prochaine fois, et un test pour savoir si vous avez trouvé une bonne manière de vous organiser efficacement selon votre hémisphère dominant ensuite.
-
-
 
 ---
 
