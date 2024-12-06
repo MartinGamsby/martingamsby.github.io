@@ -2,7 +2,7 @@
 layout: post
 title: Si je faisais un Ted Talk
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Agriculture régénératrice, agriculture, mondialisation, capitalisme, climat, Gamsblurb]
+tags: [Agriculture régénératrice,agriculture,mondialisation,capitalisme,climat,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2othkld001jlg0c19tqtvrd/preview-image-uiQjCNeD76kI6lu2WMAJs50OhUxKRK.jfif
 ref: https://martingamsby.github.io/en/if-i-were-to-have-a-ted-talk
 

@@ -2,7 +2,7 @@
 layout: post
 title: Réflexions sur la vie, la santé et le code - Martin Gamsby
 categories: ["Longueur: Mini", "Gamsblurb"]
-tags: [Podcast, Martin Gamsby, IA, Gamsblurb]
+tags: [Podcast,Martin Gamsby,IA,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/reflections-on-life-health-and-code-martin-gamsby
 
@@ -17,7 +17,6 @@ Sean et Allie !
 (En Anglais)
 
 https://youtu.be/nLoh_IzX-Gc
-
 
 ---
 

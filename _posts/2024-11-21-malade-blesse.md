@@ -2,7 +2,7 @@
 layout: post
 title: Malade ? Blessé ?
 categories: ["Longueur: Mini", "Gamsblurb"]
-tags: [Motivation, Santé, Gamsblurb]
+tags: [Motivation,Santé,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/are-you-sick-injured
 

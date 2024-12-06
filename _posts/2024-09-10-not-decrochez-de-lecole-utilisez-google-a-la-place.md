@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Décrochez de l'école, utilisez Google à la place?
-categories: ["Longueur: Court","Langue: Français","Langue: Anglais","Gamsblurb"]
+title: (NOT) Décrochez de l'école, utilisez Google à la place?
+categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [École,Apprendre,Développement Logiciel,Programmation,Travail,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0x5rffm006rid0clgji46n3/preview-image-1jQs1eQ9RoWfmQxE4XcAO39KUki6QW.jfif
+ref: https://martingamsby.github.io/en/not-drop-out-of-school-use-google-instead
 
 ---
 
