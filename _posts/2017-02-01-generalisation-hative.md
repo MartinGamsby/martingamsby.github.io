@@ -16,4 +16,7 @@ En Grèce antique, un certain Socrate a dénoncé les sophistes de son époque, 
 
 ---
 
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3ldhrc4oyq624)
+- [X/Twitter](https://twitter.com/user/status/1868841391222096018)
+- [YouTube Shorts](https://www.youtube.com/watch?v=KR9-rSxyxnU)
 

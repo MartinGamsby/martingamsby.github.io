@@ -18,4 +18,8 @@ Le vrai problème, ce n'est pas la difficulté, c'est la mentalité des élèves
 
 ---
 
+- [Bluesky](https://bsky.app/profile/martin-gamsby.bsky.social/post/3ldoihrq3do2s)
+- [X/Twitter](https://twitter.com/user/status/1869810486750887999)
+- [YouTube Shorts](https://www.youtube.com/watch?v=BpcQr3fuv_Y)
+- [Facebook](https://www.instagram.com/p/DDyICgCO4tG/)
 
