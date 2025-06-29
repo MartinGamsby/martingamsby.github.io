@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Préfères-tu:
+title: Préfères-tu
 categories: ["Longueur: Court", "Gamsblurb"]
-tags: [Santé, Ne meurs pas, Bryan Johnson, Gamsblurb]
+tags: [Santé,Ne meurs pas,Bryan Johnson,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/would-you-rather
 
 ---
 
-### **Préfères-tu:**
+### **Préfères-tu**
 
 - avoir faim pour le reste de ta vie, avec une espérance de vie doublée, garanti.
 - continuer ce que tu fais, avec une espérance de vie plus courte, garanti.
