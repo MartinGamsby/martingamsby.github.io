@@ -1,0 +1,4094 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-translate-customization" content="108d9124921d80c3-80e20d618ff053c8-g4f02ec6f3dba68b7-c">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Catégories | Gamsblurbs</title>
+<meta name="generator" content="Jekyll v4.4.1">
+<meta property="og:title" content="Catégories">
+<meta name="author" content="Martin Gamsby">
+<meta property="og:locale" content="fr">
+<meta name="description" content="Tout est connecté: Développement personnel/logiciel, Personnalités, Chiffres, Anthropologie, Méta-formule, Curiosités, Algorithmes, Agriculture, Urbanisme…">
+<meta property="og:description" content="Tout est connecté: Développement personnel/logiciel, Personnalités, Chiffres, Anthropologie, Méta-formule, Curiosités, Algorithmes, Agriculture, Urbanisme…">
+<link rel="canonical" href="/jekyll-theme-yat/categories">
+<meta property="og:url" content="/jekyll-theme-yat/categories">
+<meta property="og:site_name" content="Gamsblurbs">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Catégories">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Martin Gamsby"},"description":"Tout est connecté: Développement personnel/logiciel, Personnalités, Chiffres, Anthropologie, Méta-formule, Curiosités, Algorithmes, Agriculture, Urbanisme…","headline":"Catégories","url":"/jekyll-theme-yat/categories"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="icon" href="">
+  <link rel="canonical" href="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-noto-sans@0.0.72/index.min.css">
+  <link rel="stylesheet" href="/jekyll-theme-yat/assets/css/main.css">
+  <script src="/jekyll-theme-yat/assets/js/main.js"></script><link type="application/atom+xml" rel="alternate" href="/jekyll-theme-yat/feed.xml" title="Gamsblurbs">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
+<!-- and it's easy to individually load additional languages -->
+<script charset="UTF-8" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/languages/go.min.js" async></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+// Init highlight js
+document.addEventListener('DOMContentLoaded', function(event) {
+  var els = document.querySelectorAll('pre code')
+
+  function addLangData(block) {
+    var outer = block.parentElement.parentElement.parentElement;
+    var lang = block.getAttribute('data-lang');
+    for (var i = 0; i < outer.classList.length; i++) {
+      var cls = outer.classList[i];
+      if (cls.startsWith('language-')) {
+        lang = cls;
+        break;
+      }
+    }
+    if (!lang) {
+      cls = block.getAttribute('class');
+      lang = cls ? cls.replace('hljs ', '') : '';
+    }
+    if (lang.startsWith('language-')) {
+      lang = lang.substr(9);
+    }
+    block.setAttribute('class', 'hljs ' + lang);
+    block.parentNode.setAttribute('data-lang', lang);
+  }
+
+  function addBadge(block) {
+    var enabled = ('true' || 'true').toLowerCase();
+    if (enabled == 'true') {
+      var pre = block.parentElement;
+      pre.classList.add('badge');
+    }
+  }
+
+  function handle(block) {
+    addLangData(block);
+    addBadge(block)
+    hljs.highlightBlock(block);
+  }
+
+  for (var i = 0; i < els.length; i++) {
+    var el = els[i];
+    handle(el);
+  }
+});
+</script>
+
+<style>
+  /* code language badge */
+  pre.badge::before {
+    content: attr(data-lang);
+    color: #fff;
+    background-color: #ff4e00;
+    padding: 0 .5em;
+    border-radius: 0 2px;
+    text-transform: uppercase;
+    text-align: center;
+    min-width: 32px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  }
+
+  /* fix wrong badge display for firefox browser */
+  code > table pre::before {
+    display: none;
+  }
+</style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe-lightbox.umd.min.js" async></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe.umd.min.js" async></script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/photoswipe.min.css" rel="stylesheet">
+<style>
+  .pswp .pswp__container .pswp__img {
+    background-color: white;
+  }
+</style>
+
+<script>
+  function initPhotoSwipe() {
+    let customOptions = {};
+
+    try {
+      const data = ``.replaceAll("=>", ":");
+      customOptions = JSON.parse(data);
+    } catch (e) {
+      console.info("Invalid custom photo previewer options! " + e.message);
+    }
+
+    // Define object and gallery options
+    const options = Object.assign(
+      {
+        gallery: "section.main",
+        children: "a.photo-swipe",
+        photo_scale: 2,
+        // dynamic import is not supported in UMD version
+        pswpModule: PhotoSwipe,
+      },
+      customOptions
+    );
+
+    const galleryEl = document.querySelector(options.gallery);
+    if (!galleryEl) {
+      return;
+    }
+
+    const imgEls = [];
+    const els = galleryEl.querySelectorAll("img:not(.emoji)");
+    els.forEach((el) => {
+      if (el.src.trim() == "") {
+        return;
+      }
+      if (!imgEls.includes(el)) {
+        imgEls.push(el);
+      }
+    });
+
+    if (imgEls.length === 0) {
+      return;
+    }
+
+    imgEls.forEach((imgEl) => {
+      imgEl.outerHTML = `
+      <a class="photo-swipe"
+        href="${imgEl.src}"
+        data-pswp-width="${
+          Math.max(imgEl.naturalWidth, imgEl.width) * options.photo_scale
+        }"
+        data-pswp-height="${
+          Math.max(imgEl.naturalHeight, imgEl.height) * options.photo_scale
+        }"
+        data-pswp-caption="${imgEl.getAttribute("caption") || imgEl.alt}"
+        target="_blank">
+        ${imgEl.outerHTML}
+      </a>`;
+    });
+
+    // Initialize PhotoSwipe 5
+    var lightbox = new PhotoSwipeLightbox(options);
+
+    lightbox.init();
+  }
+
+  window.addEventListener("load", initPhotoSwipe);
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="site-header " role="banner">
+
+  <div class="wrapper">
+    <div class="site-header-inner">
+<span class="site-brand"><a class="site-brand-inner" rel="author" href="/jekyll-theme-yat/">
+  <img class="site-favicon" title="Gamsblurbs" src="" onerror="this.style.display='none'">
+  Gamsblurbs
+</a>
+</span><nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger">
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewbox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+              </svg>
+            </span>
+          </label>
+
+          <div class="trigger">
+<a class="page-link" href="/jekyll-theme-yat/about">À PROPOS</a><a class="page-link" href="/jekyll-theme-yat/archives">ARCHIVES</a><a class="page-link" href="/jekyll-theme-yat/categories">CATÉGORIES</a><a class="page-link" href="/jekyll-theme-yat/">ACCUEIL</a><a class="page-link" href="/jekyll-theme-yat/tags">TAGS</a>
+</div>
+        </nav>
+</div>
+  </div>
+</header>
+
+<script>
+  function initHeader() {
+    var lastScrollY = getScrollPos().y;
+    var documentElement = document.documentElement;
+
+    function storeScrollData() {
+      var y = getScrollPos().y;documentElement.setAttribute("data-header-transparent", "");var scrollStatus = "";
+
+      if (y <= 0) {
+        scrollStatus = "top";
+      } else if ((window.innerHeight + y) >= document.body.offsetHeight) {
+        scrollStatus = "bottom";
+      } else {
+        var isScrollDown = (y - lastScrollY > 0) ? true : false;
+        scrollStatus = isScrollDown ? "down" : "up";
+      }
+
+      lastScrollY = y;
+      documentElement.setAttribute("data-scroll-status", scrollStatus);
+    }
+
+    window.addEventListener('scroll', function(e) {
+      storeScrollData();
+    });
+
+    storeScrollData();
+  }
+  document.addEventListener('DOMContentLoaded', initHeader);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function hashLocate(hashValue) {
+    hashValue = hashValue.replace(/^.*#h-/, '');
+    hashValue = decodeURIComponent(hashValue);
+    var element = document.getElementById(hashValue);
+
+    if (!element) {
+      return;
+    }
+
+    var header = document.querySelector('header.site-header');
+    var headerRect = header.getBoundingClientRect();
+    var headerTop = Math.floor(headerRect.top);
+    var headerHeight = Math.floor(headerRect.height);
+    var scrollPos = getScrollPos();
+    var offsetY = element.offsetTop - (headerTop + headerHeight + 20);
+
+    if (offsetY == scrollPos.y) {
+      return;
+    }
+
+    if (headerTop == 0  && offsetY > scrollPos.y) {
+      offsetY += headerHeight + 2;
+    } else if (headerTop < 0  && offsetY < scrollPos.y) {
+      offsetY -= headerHeight - 2;
+    }
+
+    smoothScrollTo(offsetY);
+  }
+
+  // The first event occurred
+  window.addEventListener('load', function(event) {
+    if (window.location.hash) {
+      hashLocate(window.location.hash);
+    }
+  });
+
+  // The first event occurred
+  window.addEventListener('click', function(event) {
+    if (event.target.tagName.toLowerCase() == 'a') {
+      hashLocate(event.target.getAttribute('href'));
+    }
+  });
+</script>
+<div class="theme-toggle">
+  <input type="checkbox" id="theme-switch">
+  <label for="theme-switch">
+    <div class="toggle"></div>
+    <div class="names">
+      <p class="light">Clair</p>
+      <p class="dark">Foncé</p>
+    </div>
+  </label>
+</div>
+
+
+
+
+<script>
+  (function() {
+    var sw = document.getElementById('theme-switch');
+    var html = document.getElementsByTagName('html')[0];
+    var nightModeOption = ('auto' || 'auto').toLowerCase();
+    var storage = nightModeOption === 'manual'
+        ? localStorage
+        : sessionStorage;
+    var themeData = loadThemeData();
+
+    function saveThemeData(data) {
+      storage.setItem('theme', JSON.stringify(data));
+    }
+
+    function loadThemeData() {
+      var data = storage.getItem('theme');
+      try {
+        data = JSON.parse(data ? data : '');
+      } catch(e) {
+        data = { nightShift: undefined, autoToggleAt: 0 };
+        saveThemeData(data);
+      }
+      return data;
+    }
+
+    function handleThemeToggle(nightShift) {
+      themeData.nightShift = nightShift;
+      saveThemeData(themeData);
+      html.dataset.theme = nightShift ? 'dark' : 'light';
+      setTimeout(function() {
+        sw.checked = nightShift ? true : false;
+      }, 50);
+    }
+
+    function autoThemeToggle() {
+      // Next time point of theme toggle
+      var now = new Date();
+      var toggleAt = new Date();
+      var hours = now.getHours();
+      var nightShift = hours >= 19 || hours <=7;
+
+      if (nightShift) {
+        if (hours > 7) {
+          toggleAt.setDate(toggleAt.getDate() + 1);
+        }
+        toggleAt.setHours(7);
+      } else {
+        toggleAt.setHours(19);
+      }
+
+      toggleAt.setMinutes(0);
+      toggleAt.setSeconds(0);
+      toggleAt.setMilliseconds(0)
+
+      var delay = toggleAt.getTime() - now.getTime();
+
+      // auto toggle theme mode
+      setTimeout(function() {
+        handleThemeToggle(!nightShift);
+      }, delay);
+
+      return {
+        nightShift: nightShift,
+        toggleAt: toggleAt.getTime()
+      };
+    }
+
+    // Listen the theme toggle event
+    sw.addEventListener('change', function(event) {
+      handleThemeToggle(event.target.checked);
+    });
+
+    if (nightModeOption == 'auto') {
+      var data = autoThemeToggle();
+
+      // Toggle theme by local setting
+      if (data.toggleAt > themeData.autoToggleAt) {
+        themeData.autoToggleAt = data.toggleAt;
+        handleThemeToggle(data.nightShift);
+      } else {
+        handleThemeToggle(themeData.nightShift);
+      }
+    } else if (nightModeOption == 'manual') {
+      handleThemeToggle(themeData.nightShift);
+    } else {
+      var nightShift = themeData.nightShift;
+      if (nightShift === undefined) {
+        nightShift = nightModeOption === 'on';
+      }
+      handleThemeToggle(nightShift);
+    }
+  })();
+</script>
+<div id="click-to-top" class="click-to-top">
+  <i class="fa fa-arrow-up"></i>
+</div>
+<script>
+  (function () {
+    const clickToTop = document.getElementById('click-to-top');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 100) {
+        clickToTop.classList.add('show')
+      }else {
+        clickToTop.classList.remove('show')
+      }
+    });
+    clickToTop.addEventListener('click', () => {
+      window.smoothScrollTo(0);
+    });
+  })();
+</script>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="framework">
+  <section class="main">
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <div class="page-segments">
+  <ul class="page-segments-list">
+    
+    <h2 id="Gamsblurb" class="segment-name">Gamsblurb</h2>
+      
+      
+        <li class="">
+<span class="post-meta">20 Jul 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/wow-cest-la-moisissure">
+    Wow, c'est la moisissure?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jul 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/limportant-ce-nest-pas-dans-quelle-equipe-tu-es">
+    L'important ce n'est pas dans quelle équipe tu es<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Jun 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/10-ans">
+    10 ans!<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Jun 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-relation-amour-haine">
+    Une relation amour-haine?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Feb 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard-v2">
+    Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard. V2<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Jan 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/preferes-tu">
+    Préfères-tu<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/vous-savez-comment-lia-est-vraiment-nulle-pour-generer-du-texte-dans-les-images-et-les-videos">
+    Vous savez comment l’IA est vraiment nulle pour générer du texte dans les images et les vidéos ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/uderzo-avait-6-doigts">
+    Uderzo avait 6 doigts<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/non-cest-le-temps-des-manteaux-et-des-bottes-dhiver">
+    Non, c'est le temps des manteaux et des bottes d'hiver<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ca-sonne-mieux-avec-le-microphone-du-telephone">
+    Ça sonne mieux avec le microphone du téléphone ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/arretez-de-manger-de-la-malbouffe-arretez-de-normaliser-ce-que-lindustrie-alimentaire-veut">
+    Arrêtez de manger de la malbouffe. Arrêtez de normaliser ce que l'industrie alimentaire veut<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/linformatique-quantique-est-desormais-une-realite">
+    L'informatique quantique est désormais une réalité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-essaye-un-micro-sur-mon-telephone">
+    J'ai essayé un micro sur mon téléphone<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jaime-marcher-le-soir">
+    J'aime marcher le soir<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">5 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ne-demarre-pas-dentreprise-et-ne-commence-pas-a-coder">
+    Ne démarre pas d'entreprise, et ne commence pas à coder<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-5">
+    L'expérience musicale - Semaine 5<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-viens-dapprendre-lexistence-du-flot-sombre-dark-flow">
+    Je viens d'apprendre l'existence du "Flot sombre" (Dark Flow)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/reflexions-sur-la-vie-la-sante-et-le-code-martin-gamsby">
+    Réflexions sur la vie, la santé et le code - Martin Gamsby<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-me-suis-rase-pour-la-premiere-fois-depuis-2-ans">
+    Je me suis rasé pour la première fois depuis 2 ans<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/coder-cest-facile-en-fait">
+    Coder c'est facile, en fait<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/etre-malade-cest-la-pire-chose">
+    Être malade, c'est la pire chose<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/malade-blesse">
+    Malade ? Blessé ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-but-de-la-vie-du-point-de-vue-de-gandalf">
+    Le but de la vie, du point de vue de Gandalf<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/derriere-chaque-expert">
+    Derrière chaque expert<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">14 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/aleatoirement-beau">
+    Aléatoirement beau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/litteralement-totalement-transparentes">
+    Littéralement, totalement  transparentes,<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-2">
+    L'expérience musicale - Semaine 2<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ton-travail-nest-pas-ton-identite">
+    Ton travail n'est pas ton identité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/20-ans-dapprentissages-distilles-dans-une-idee">
+    20 ans d'apprentissages distillés dans une idée<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quelques-heures-de-pratique-seulement-plus-facile-que-vous-pensez">
+    Quelques heures de pratique seulement, plus facile que vous pensez !<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-1">
+    L'expérience musicale - Semaine 1<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/defi-decriture-imaginez-si-une-tache-banale-devenait-quelque-chose-que-vous-ne-pouvez-plus-tenir-pour-acquis-car-elle-comporte-desormais-des-consequences">
+    Défi d'écriture; imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-ecrit-une-histoire-courte">
+    J'ai écrit une histoire courte<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">31 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/piano-pendant-15-ans-vs-15-semaines-ma-premiere-composition">
+    Piano pendant 15 ans vs 15 semaines - Ma première composition<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/reduction-ou-correction">
+    Réduction ou correction<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/licenciements-massifs">
+    Licenciements massifs<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-commence-a-coder-un-jeu-video">
+    J'ai commencé à coder un jeu vidéo<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/fini-le-hoquet">
+    Fini le hoquet<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/qui-dautre-mange-la-peau-du-kiwi">
+    Qui d’autre mange la peau du kiwi ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-plus-simple-nest-pas-toujours-le-meilleur">
+    Le plus simple n’est pas toujours le meilleur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">25 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/si-je-faisais-un-ted-talk">
+    Si je faisais un Ted Talk<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/tete-gonflee-pattes-doiseau">
+    Tête gonflée, pattes d'oiseau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/si-vous-avez-limpression-de-heurter-un-plafond-faites-un-trou-a-travers">
+    Si vous avez l’impression de heurter un plafond, faites un trou à travers.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/burnout">
+    Burnout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/on-aime-les-histoires-pour-differentes-raisons-quest-ce-quune-bonne-histoire-pour-vous">
+    On aime les histoires pour différentes raisons. Qu'est-ce qu'une bonne histoire pour vous ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/liberte-35">
+    Liberté 35<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-bonnes-choses-que-nous-obtenons-de-la-vie-viennent-souvent-lorsque-nous-surmontons-nos-peurs">
+    Les bonnes choses que nous obtenons de la vie viennent souvent lorsque nous surmontons nos peurs.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">18 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/tout-ce-que-les-hommes-ont-fait-de-beau-et-de-bien-ils-lont-construit-avec-leurs-reves">
+    Tout ce que les hommes ont fait de beau et de bien, ils l'ont construit avec leurs rêves ...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-brise-ma-sequence-de-50-jours">
+    J'ai brisé ma séquence de 50 jours<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lenergie-noire-pourrait-elle-simplement-etre-constituee-de-multiples-trous-noirs-lointains-vieux-de-plusieurs-milliards-dannees">
+    L’énergie noire pourrait-elle simplement être constituée de multiples trous noirs (lointains), vieux de plusieurs milliards d’années ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-pensais-a-ca-lautre-jour">
+    Je pensais à ça l'autre jour...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/un-idiot-avec-un-plan-va-surpasser-un-genie-sans-plan">
+    Un idiot AVEC un plan va surpasser un génie SANS plan<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ne-sous-estime-jamais-les-autres">
+    Ne sous-estime jamais les autres<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/legumes-et-viande">
+    Légumes et viande<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/larche-de-centauri-titre-provisoire">
+    L'arche de Centauri (titre provisoire)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">8 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/aller-au-restaurant-tout-comme-changer-ses-habitudes-ca-passe-ou-ca-casse">
+    Aller au restaurant (tout comme changer ses habitudes), ça passe ou ça casse<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-croyais-que-je-navais-pas-de-voiture-de-reve">
+    Je croyais que je n'avais pas de voiture de rêve...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">2 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/etre-parent-cest-facile">
+    Être parent, c'est facile<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-viens-de-regarder-seul-sur-mars-lhumanite-a-la-rescousse-dun-astronaute">
+    Je viens de regarder « Seul sur Mars » - L'humanité à la rescousse d'un astronaute<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/amazon">
+    Amazon<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/raison-de-vivre">
+    Raison de vivre<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/on-ne-sait-pas-ce-quon-ne-sait-pas-evidemment">
+    On ne sait pas ce qu'on ne sait pas (évidemment)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/la-meditation-cest-facile-en-fait">
+    La méditation c'est facile, en fait.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">25 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-ville-roulante">
+    Une ville roulante<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/souffrez-vous-de-thalassophobie">
+    Souffrez-vous de Thalassophobie ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/informatique-ou-logiciel-connaissez-vous-la-difference">
+    Informatique ou logiciel. Connaissez-vous la différence ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/100-jours-avant-le-1er-janvier">
+    100 jours avant le 1er janvier<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/diabete-de-type-3-vous-lavez-probablement">
+    Diabète de type 3 ? Vous l'avez probablement<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/electricite-germes-religion-porc-pouvoir-sorcieres-revolution-et-prosperite">
+    Électricité, germes, religion, porc, pouvoir, sorcières, révolution et prospérité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">18 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pas-de-donnees-sur-mon-telephone-ce-matin-catastrophe">
+    Pas de données sur mon téléphone ce matin, catastrophe?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-secret-pour-se-sentir-mieux-toujours-a-portee-de-main">
+    Le secret pour se sentir mieux, toujours à portée de main<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">16 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-idee-qui-regle-tout-provenant-de-20-ans-dapprentissages">
+    Une idée qui règle tout, provenant de 20 ans d'apprentissages<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lia-au-pouvoir-hear-me-out">
+    l'IA au pouvoir? (hear me out)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">14 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/un-phd-dans-votre-poche">
+    Un PhD dans votre poche<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/faites-attention-a-ce-que-vous-souhaitez">
+    Faites attention à ce que vous souhaitez<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/sagesse">
+    Sagesse<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/burnout">
+    Burnout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/alcool-ou-sucre">
+    Alcool ou sucre?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">10 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/not-decrochez-de-lecole-utilisez-google-a-la-place">
+    (NOT) Décrochez de l'école, utilisez Google à la place?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/la-programmation-un-rapport-amour-haine-pas-juste-la-programmation">
+    La programmation, un rapport amour-haine? (Pas juste la programmation)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">8 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pourquoi-le-ciel-est-bleu-et-tout-le-reste">
+    Pourquoi le ciel est bleu? (Et tout le reste)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/arretez-le-hustle-culture-profitez-des-taches-menageres">
+    Arrêtez le hustle culture, profitez des tâches ménagères<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/depuis-quand-le-developpement-personnel-est-negatif">
+    Depuis quand le développement personnel est négatif?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">5 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard">
+    Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quand-les-gens-sous-estiment-le-pouvoir-dexcel">
+    Quand les gens sous-estiment le pouvoir d'Excel<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-peur-de-la-soupe">
+    J'ai peur de la soupe<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">2 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ca-chatouille-les-papilles">
+    Ça chatouille les papilles!<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lalzheimer-peut-etre-evite">
+    L'Alzheimer peut être évité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">31 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-prix-du-bitcoin-peut-il-etre-predit-depuis-le-debut">
+    Le prix du Bitcoin peut-il être prédit, depuis le début ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-parents-sadaptent">
+    Les parents s'adaptent<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/shtandartisation">
+    Shtandartisation<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/matelas-mouille">
+    Matelas mouillé<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/gandalf-ma-reconcilie-avec-la-vie">
+    Gandalf m'a réconcilié avec la vie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/langlais-a-ruine-ma-vie">
+    L'anglais a ruiné ma vie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 May 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/magie">
+    Magie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Apr 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/fabulateur">
+    Fabulateur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Mar 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/mathematicien">
+    Mathématicien<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Feb 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/generalisation-hative">
+    Généralisation Hâtive<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jan 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/seconde">
+    Seconde<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Dec 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/deja-vu">
+    Déjà Vu<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Nov 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/personnalites">
+    Personnalités<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/itinerant">
+    Itinérant<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Sep 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/hypocrite">
+    Hypocrite<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Aug 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/conferencier">
+    Conférencier<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jul 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/web-5-0">
+    Web 5.0<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jun 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/dormeur">
+    Dormeur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 May 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jeune-intermittent">
+    Jeûne Intermittent<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Apr 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/grand-metropolien">
+    Grand Métropolien<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Mar 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/poisson-rouge">
+    Poisson Rouge<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Feb 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/agnostique">
+    Agnostique<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Apr 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quoi-que-tu-reves-dentreprendre-commence-le-laudace-a-du-genie-du-pouvoir-de-la-magie">
+    Quoi que tu rêves d’entreprendre, commence-le. L’audace a du génie, du pouvoir, de la magie.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Mar 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-classement-sans-dessus-dessous">
+    Le classement sans dessus dessous<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Feb 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/moins-de-classement-pour-un-meilleur-rendement">
+    Moins de classement pour un meilleur rendement ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Feb 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-gros-avantage-de-lecole">
+    Le GROS avantage de l’école<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/exemple-dassociation">
+    Exemple d’association<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-secret-de-mon-professeur">
+    Le secret de mon professeur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ah-le-temps-des-fetes-une-tourtiere-a-la-fois">
+    Ah, le temps des fêtes (une tourtière à la fois)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pourquoi-80-des-richesses-appartient-a-20-des-gens-et-pourquoi-ca-touche-tout">
+    Pourquoi 80% des richesses appartient à 20% des gens, et pourquoi ça touche tout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">20 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-blessures-de-votre-cerveau">
+    Les blessures de votre cerveau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ce-qui-peut-tout-gacher">
+    Ce qui peut tout gâcher<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-appris-la-lecon-la-plus-importante-de-lecole-il-y-a-4-ans">
+    J’ai appris la leçon la plus importante de l’école, il y a 4 ans…<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/commencez-pour-finir">
+    Commencez pour finir<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/avez-vous-peur">
+    Avez vous peur ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-contracteur-de-maisons-vs-lapprentissage">
+    Le contracteur de maisons vs l'apprentissage<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/musclez-votre-cerveau">
+    Musclez votre cerveau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+    
+    <h2 id="Longueur: Court" class="segment-name">Longueur: Court</h2>
+      
+      
+        <li class="">
+<span class="post-meta">28 Jun 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/10-ans">
+    10 ans!<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Jun 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-relation-amour-haine">
+    Une relation amour-haine?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Feb 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard-v2">
+    Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard. V2<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Jan 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/preferes-tu">
+    Préfères-tu<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/vous-savez-comment-lia-est-vraiment-nulle-pour-generer-du-texte-dans-les-images-et-les-videos">
+    Vous savez comment l’IA est vraiment nulle pour générer du texte dans les images et les vidéos ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/uderzo-avait-6-doigts">
+    Uderzo avait 6 doigts<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/non-cest-le-temps-des-manteaux-et-des-bottes-dhiver">
+    Non, c'est le temps des manteaux et des bottes d'hiver<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/arretez-de-manger-de-la-malbouffe-arretez-de-normaliser-ce-que-lindustrie-alimentaire-veut">
+    Arrêtez de manger de la malbouffe. Arrêtez de normaliser ce que l'industrie alimentaire veut<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-5">
+    L'expérience musicale - Semaine 5<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-viens-dapprendre-lexistence-du-flot-sombre-dark-flow">
+    Je viens d'apprendre l'existence du "Flot sombre" (Dark Flow)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-me-suis-rase-pour-la-premiere-fois-depuis-2-ans">
+    Je me suis rasé pour la première fois depuis 2 ans<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/coder-cest-facile-en-fait">
+    Coder c'est facile, en fait<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/etre-malade-cest-la-pire-chose">
+    Être malade, c'est la pire chose<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-but-de-la-vie-du-point-de-vue-de-gandalf">
+    Le but de la vie, du point de vue de Gandalf<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/derriere-chaque-expert">
+    Derrière chaque expert<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">14 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/aleatoirement-beau">
+    Aléatoirement beau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/litteralement-totalement-transparentes">
+    Littéralement, totalement  transparentes,<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-2">
+    L'expérience musicale - Semaine 2<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ton-travail-nest-pas-ton-identite">
+    Ton travail n'est pas ton identité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/20-ans-dapprentissages-distilles-dans-une-idee">
+    20 ans d'apprentissages distillés dans une idée<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lexperience-musicale-semaine-1">
+    L'expérience musicale - Semaine 1<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/defi-decriture-imaginez-si-une-tache-banale-devenait-quelque-chose-que-vous-ne-pouvez-plus-tenir-pour-acquis-car-elle-comporte-desormais-des-consequences">
+    Défi d'écriture; imaginez si une tâche banale devenait quelque chose que vous ne pouvez plus tenir pour acquis, car elle comporte désormais des conséquences.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-ecrit-une-histoire-courte">
+    J'ai écrit une histoire courte<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">31 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/piano-pendant-15-ans-vs-15-semaines-ma-premiere-composition">
+    Piano pendant 15 ans vs 15 semaines - Ma première composition<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-commence-a-coder-un-jeu-video">
+    J'ai commencé à coder un jeu vidéo<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/fini-le-hoquet">
+    Fini le hoquet<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-plus-simple-nest-pas-toujours-le-meilleur">
+    Le plus simple n’est pas toujours le meilleur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">25 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/si-je-faisais-un-ted-talk">
+    Si je faisais un Ted Talk<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/tete-gonflee-pattes-doiseau">
+    Tête gonflée, pattes d'oiseau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/burnout">
+    Burnout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/on-aime-les-histoires-pour-differentes-raisons-quest-ce-quune-bonne-histoire-pour-vous">
+    On aime les histoires pour différentes raisons. Qu'est-ce qu'une bonne histoire pour vous ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-brise-ma-sequence-de-50-jours">
+    J'ai brisé ma séquence de 50 jours<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/un-idiot-avec-un-plan-va-surpasser-un-genie-sans-plan">
+    Un idiot AVEC un plan va surpasser un génie SANS plan<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ne-sous-estime-jamais-les-autres">
+    Ne sous-estime jamais les autres<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">8 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/aller-au-restaurant-tout-comme-changer-ses-habitudes-ca-passe-ou-ca-casse">
+    Aller au restaurant (tout comme changer ses habitudes), ça passe ou ça casse<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-croyais-que-je-navais-pas-de-voiture-de-reve">
+    Je croyais que je n'avais pas de voiture de rêve...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">2 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/etre-parent-cest-facile">
+    Être parent, c'est facile<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-viens-de-regarder-seul-sur-mars-lhumanite-a-la-rescousse-dun-astronaute">
+    Je viens de regarder « Seul sur Mars » - L'humanité à la rescousse d'un astronaute<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/raison-de-vivre">
+    Raison de vivre<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/on-ne-sait-pas-ce-quon-ne-sait-pas-evidemment">
+    On ne sait pas ce qu'on ne sait pas (évidemment)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/la-meditation-cest-facile-en-fait">
+    La méditation c'est facile, en fait.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">25 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-ville-roulante">
+    Une ville roulante<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/souffrez-vous-de-thalassophobie">
+    Souffrez-vous de Thalassophobie ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/informatique-ou-logiciel-connaissez-vous-la-difference">
+    Informatique ou logiciel. Connaissez-vous la différence ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">23 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/100-jours-avant-le-1er-janvier">
+    100 jours avant le 1er janvier<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/diabete-de-type-3-vous-lavez-probablement">
+    Diabète de type 3 ? Vous l'avez probablement<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">18 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pas-de-donnees-sur-mon-telephone-ce-matin-catastrophe">
+    Pas de données sur mon téléphone ce matin, catastrophe?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-secret-pour-se-sentir-mieux-toujours-a-portee-de-main">
+    Le secret pour se sentir mieux, toujours à portée de main<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">16 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/une-idee-qui-regle-tout-provenant-de-20-ans-dapprentissages">
+    Une idée qui règle tout, provenant de 20 ans d'apprentissages<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lia-au-pouvoir-hear-me-out">
+    l'IA au pouvoir? (hear me out)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">14 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/un-phd-dans-votre-poche">
+    Un PhD dans votre poche<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/faites-attention-a-ce-que-vous-souhaitez">
+    Faites attention à ce que vous souhaitez<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/alcool-ou-sucre">
+    Alcool ou sucre?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/la-programmation-un-rapport-amour-haine-pas-juste-la-programmation">
+    La programmation, un rapport amour-haine? (Pas juste la programmation)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">8 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pourquoi-le-ciel-est-bleu-et-tout-le-reste">
+    Pourquoi le ciel est bleu? (Et tout le reste)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/arretez-le-hustle-culture-profitez-des-taches-menageres">
+    Arrêtez le hustle culture, profitez des tâches ménagères<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/depuis-quand-le-developpement-personnel-est-negatif">
+    Depuis quand le développement personnel est négatif?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">5 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard">
+    Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quand-les-gens-sous-estiment-le-pouvoir-dexcel">
+    Quand les gens sous-estiment le pouvoir d'Excel<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-peur-de-la-soupe">
+    J'ai peur de la soupe<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">2 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ca-chatouille-les-papilles">
+    Ça chatouille les papilles!<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">31 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-prix-du-bitcoin-peut-il-etre-predit-depuis-le-debut">
+    Le prix du Bitcoin peut-il être prédit, depuis le début ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-parents-sadaptent">
+    Les parents s'adaptent<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/shtandartisation">
+    Shtandartisation<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/gandalf-ma-reconcilie-avec-la-vie">
+    Gandalf m'a réconcilié avec la vie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 May 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/magie">
+    Magie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Apr 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/fabulateur">
+    Fabulateur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Mar 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/mathematicien">
+    Mathématicien<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Feb 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/generalisation-hative">
+    Généralisation Hâtive<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jan 2017</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/seconde">
+    Seconde<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Dec 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/deja-vu">
+    Déjà Vu<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Nov 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/personnalites">
+    Personnalités<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/itinerant">
+    Itinérant<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Sep 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/hypocrite">
+    Hypocrite<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Aug 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/conferencier">
+    Conférencier<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jul 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/web-5-0">
+    Web 5.0<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jun 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/dormeur">
+    Dormeur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 May 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jeune-intermittent">
+    Jeûne Intermittent<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Apr 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/grand-metropolien">
+    Grand Métropolien<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Mar 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/poisson-rouge">
+    Poisson Rouge<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Feb 2016</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/agnostique">
+    Agnostique<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">24 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/exemple-dassociation">
+    Exemple d’association<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">17 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-secret-de-mon-professeur">
+    Le secret de mon professeur<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ce-qui-peut-tout-gacher">
+    Ce qui peut tout gâcher<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+    
+    <h2 id="Longueur: Mini" class="segment-name">Longueur: Mini</h2>
+      
+      
+        <li class="">
+<span class="post-meta">20 Jul 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/wow-cest-la-moisissure">
+    Wow, c'est la moisissure?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Jul 2025</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/limportant-ce-nest-pas-dans-quelle-equipe-tu-es">
+    L'important ce n'est pas dans quelle équipe tu es<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ca-sonne-mieux-avec-le-microphone-du-telephone">
+    Ça sonne mieux avec le microphone du téléphone ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/linformatique-quantique-est-desormais-une-realite">
+    L'informatique quantique est désormais une réalité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-essaye-un-micro-sur-mon-telephone">
+    J'ai essayé un micro sur mon téléphone<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jaime-marcher-le-soir">
+    J'aime marcher le soir<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">5 Dec 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ne-demarre-pas-dentreprise-et-ne-commence-pas-a-coder">
+    Ne démarre pas d'entreprise, et ne commence pas à coder<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/reflexions-sur-la-vie-la-sante-et-le-code-martin-gamsby">
+    Réflexions sur la vie, la santé et le code - Martin Gamsby<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/malade-blesse">
+    Malade ? Blessé ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">4 Nov 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quelques-heures-de-pratique-seulement-plus-facile-que-vous-pensez">
+    Quelques heures de pratique seulement, plus facile que vous pensez !<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">30 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/reduction-ou-correction">
+    Réduction ou correction<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/licenciements-massifs">
+    Licenciements massifs<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">26 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/qui-dautre-mange-la-peau-du-kiwi">
+    Qui d’autre mange la peau du kiwi ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/si-vous-avez-limpression-de-heurter-un-plafond-faites-un-trou-a-travers">
+    Si vous avez l’impression de heurter un plafond, faites un trou à travers.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/liberte-35">
+    Liberté 35<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-bonnes-choses-que-nous-obtenons-de-la-vie-viennent-souvent-lorsque-nous-surmontons-nos-peurs">
+    Les bonnes choses que nous obtenons de la vie viennent souvent lorsque nous surmontons nos peurs.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">18 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/tout-ce-que-les-hommes-ont-fait-de-beau-et-de-bien-ils-lont-construit-avec-leurs-reves">
+    Tout ce que les hommes ont fait de beau et de bien, ils l'ont construit avec leurs rêves ...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/je-pensais-a-ca-lautre-jour">
+    Je pensais à ça l'autre jour...<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/amazon">
+    Amazon<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/sagesse">
+    Sagesse<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">12 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/burnout">
+    Burnout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">28 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/matelas-mouille">
+    Matelas mouillé<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">13 Apr 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/quoi-que-tu-reves-dentreprendre-commence-le-laudace-a-du-genie-du-pouvoir-de-la-magie">
+    Quoi que tu rêves d’entreprendre, commence-le. L’audace a du génie, du pouvoir, de la magie.<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+    
+    <h2 id="Longueur: Moyen" class="segment-name">Longueur: Moyen</h2>
+      
+      
+        <li class="">
+<span class="post-meta">15 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lenergie-noire-pourrait-elle-simplement-etre-constituee-de-multiples-trous-noirs-lointains-vieux-de-plusieurs-milliards-dannees">
+    L’énergie noire pourrait-elle simplement être constituée de multiples trous noirs (lointains), vieux de plusieurs milliards d’années ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">11 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/legumes-et-viande">
+    Légumes et viande<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Oct 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/larche-de-centauri-titre-provisoire">
+    L'arche de Centauri (titre provisoire)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">19 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/electricite-germes-religion-porc-pouvoir-sorcieres-revolution-et-prosperite">
+    Électricité, germes, religion, porc, pouvoir, sorcières, révolution et prospérité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">10 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/not-decrochez-de-lecole-utilisez-google-a-la-place">
+    (NOT) Décrochez de l'école, utilisez Google à la place?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">1 Sep 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/lalzheimer-peut-etre-evite">
+    L'Alzheimer peut être évité<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Aug 2024</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/langlais-a-ruine-ma-vie">
+    L'anglais a ruiné ma vie<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Mar 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-classement-sans-dessus-dessous">
+    Le classement sans dessus dessous<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">21 Feb 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/moins-de-classement-pour-un-meilleur-rendement">
+    Moins de classement pour un meilleur rendement ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">7 Feb 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-gros-avantage-de-lecole">
+    Le GROS avantage de l’école<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">3 Jan 2010</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/ah-le-temps-des-fetes-une-tourtiere-a-la-fois">
+    Ah, le temps des fêtes (une tourtière à la fois)<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">27 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/pourquoi-80-des-richesses-appartient-a-20-des-gens-et-pourquoi-ca-touche-tout">
+    Pourquoi 80% des richesses appartient à 20% des gens, et pourquoi ça touche tout<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">20 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/les-blessures-de-votre-cerveau">
+    Les blessures de votre cerveau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">6 Dec 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/jai-appris-la-lecon-la-plus-importante-de-lecole-il-y-a-4-ans">
+    J’ai appris la leçon la plus importante de l’école, il y a 4 ans…<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">29 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/commencez-pour-finir">
+    Commencez pour finir<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">22 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/avez-vous-peur">
+    Avez vous peur ?<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">15 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/le-contracteur-de-maisons-vs-lapprentissage">
+    Le contracteur de maisons vs l'apprentissage<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+        <li class="">
+<span class="post-meta">9 Nov 2009</span>
+<span>
+  <a class="post-link" href="/jekyll-theme-yat/musclez-votre-cerveau">
+    Musclez votre cerveau<span class="post-badges">
+  <span class="post-badge badge-top">PIN</span>
+  <span class="post-badge badge-new">NOUVEAU</span>
+</span>
+</a>
+</span>
+</li>
+        
+      
+    
+  </ul>
+</div>
+
+
+  </section>
+  <section class="sidebar" style="margin-left: 15px;">
+    <!-- Get sidebar items -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="common-list">
+  <ul>
+    <li>
+      <a href="/jekyll-theme-yat/index.html">
+        Tous<span>125</span>
+      </a>
+    </li>
+
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-Gamsblurb">
+          Gamsblurb <span>125</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-Longueur:%20Court">
+          Longueur: Court <span>84</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-Longueur:%20Mini">
+          Longueur: Mini <span>23</span>
+        </a>
+      </li>
+    
+      <li>
+        <a href="/jekyll-theme-yat/categories.html#h-Longueur:%20Moyen">
+          Longueur: Moyen <span>18</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+</section>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/jekyll-theme-yat/"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner">
+<div>© 2017-2025 Martin Gamsby</div>
+      <div>Propulsé par <a title="Jekyll est un générateur de site statique simple et adapté aux blogs." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
+      another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Theme Yat</a>.</div>
+      <div class="footer-col rss-subscribe">S'abonner <a href="/jekyll-theme-yat/feed.xml">via RSS</a>
+</div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
