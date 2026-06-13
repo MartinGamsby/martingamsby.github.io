@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Un PhD dans votre poche
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Technologie,Développement Logiciel,Intelligence Artificielle,Prédiction,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm127f3rb009dl40ci927m3xv/preview-image-euqTJIQ6BqdbJ6vBW5gvbVA2wMoGhW.jpg
 ref: https://martingamsby.github.io/en/a-phd-in-your-pocket
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-14-un-phd-dans-votre-poche/
 
 ---
 

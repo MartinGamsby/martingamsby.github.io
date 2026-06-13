@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Faites attention à ce que vous souhaitez
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Développement Logiciel,Développement Personnel,Programmation,Raison d'Être,Mème,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm110x8mr004tjv0c7rjqapy9/preview-image-HykJolRchmoJRXTWzELYRl7SwmYl4l.jpg
 ref: https://martingamsby.github.io/en/be-careful-what-you-wish-for
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-13-faites-attention-a-ce-que-vous-souhaitez/
 
 ---
 

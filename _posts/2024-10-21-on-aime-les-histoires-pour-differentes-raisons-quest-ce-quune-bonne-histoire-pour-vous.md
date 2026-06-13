@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: On aime les histoires pour différentes raisons. Qu'est-ce qu'une bonne histoire pour vous ?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Histoires,Fiction,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2jenv79000tl00cv0ob7xg0/preview-image-X6g9fsysv7XzWCIoyNpgnLQzlIRV0u.webp
 ref: https://martingamsby.github.io/en/people-like-stories-for-different-reasons-what-makes-a-story-compelling-to-you
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-21-on-aime-les-histoires-pour-differentes-raisons-quest-ce-quune-bonne-histoire-pour-vous/
 
 ---
 

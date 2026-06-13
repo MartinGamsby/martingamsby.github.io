@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: J'ai brisé ma séquence de 50 jours
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Motivation,Persévérance,Écriture,Habitudes,Résilience,Progrès,Détermination,Succès,Défi,Inspiration,Santé,Recherche,Développement personnel,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/i-broke-my-50-day-streak
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-17-jai-brise-ma-sequence-de-50-jours/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Moins de classement pour un meilleur rendement ?
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Apprentissage,Cerveau,Organisation,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/the-big-advantage-of-school
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-02-21-moins-de-classement-pour-un-meilleur-rendement/
 
 ---
 

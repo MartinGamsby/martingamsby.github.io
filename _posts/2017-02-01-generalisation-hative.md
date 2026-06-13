@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Généralisation Hâtive
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/hasty-generalization
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2017-02-01-generalisation-hative/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Grand Métropolien
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/grand-metropolitan
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2016-04-01-grand-metropolien/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le secret pour se sentir mieux, toujours à portée de main
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Un à la fois,Santé,Développement Personnel,Santé Mentale,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm16zm3bd001wl90co4ypfdbu/preview-image-RyXWD4LaChFaeuKCG4ARlZzpGDxWgh.jfif
 ref: https://martingamsby.github.io/en/the-secret-to-feeling-better-always-at-hand
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-17-le-secret-pour-se-sentir-mieux-toujours-a-portee-de-main/
 
 ---
 

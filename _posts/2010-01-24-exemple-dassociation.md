@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Exemple d’association
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Apprentissage,Concentration,Mémoire,Associations,Productivité,Focus,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/example-of-association
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-01-24-exemple-dassociation/
 
 ---
 

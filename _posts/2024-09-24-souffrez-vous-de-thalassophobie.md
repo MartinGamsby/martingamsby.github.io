@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Souffrez-vous de Thalassophobie ?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Peur,Anxiété,Perception,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1h33ob20008jr0csnlogswc/preview-image-S7hg5Gzvy1tUHxkb9RLsqPlB0G8fno.png
 ref: https://martingamsby.github.io/en/do-you-suffer-from-thalassophobia
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-24-souffrez-vous-de-thalassophobie/
 
 ---
 

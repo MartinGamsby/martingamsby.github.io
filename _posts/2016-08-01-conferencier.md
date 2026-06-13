@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Conférencier
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/conference
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2016-08-01-conferencier/
 
 ---
 

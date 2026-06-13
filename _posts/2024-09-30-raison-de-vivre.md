@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Raison de vivre
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Raison de Vivre,Ikigai,Ambition,Méditation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1p8w5ex008omg0cgnndxoan/preview-image-EefmoLKqVCU99TtOQsE58BFo01XdCZ.png
 ref: https://martingamsby.github.io/en/the-most-fulfilling-thing-in-life
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-30-raison-de-vivre/
 
 ---
 

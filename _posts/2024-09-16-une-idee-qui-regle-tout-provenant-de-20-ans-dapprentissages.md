@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Une idée qui règle tout, provenant de 20 ans d'apprentissages
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Développement Personnel,Habitudes,Santé,Un à la fois,Fitness,Finances,Désencombrement,Motivation,Life Hacks,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm15atbsr015gjq0c25zedz89/preview-image-cc6Rmpn2053xuuP3G8Vy6cpnz1zJpb.jfif
 ref: https://martingamsby.github.io/en/an-idea-you-can-apply-to-everything-from-20-years-of-learning
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-16-une-idee-qui-regle-tout-provenant-de-20-ans-dapprentissages/
 
 ---
 

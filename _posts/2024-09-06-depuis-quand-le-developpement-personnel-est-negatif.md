@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Depuis quand le développement personnel est négatif?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé Mentale,Productivité,Développement Personnel,Développement Collectif,Communauté,Entraide,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0r3zipv016eml0cl0mbyfhj/preview-image-kWI9H9m8mU0aBKbkuQSAh4mIvs2zuv.jpg
 ref: https://martingamsby.github.io/en/when-did-self-help-become-negative
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-06-depuis-quand-le-developpement-personnel-est-negatif/
 
 ---
 

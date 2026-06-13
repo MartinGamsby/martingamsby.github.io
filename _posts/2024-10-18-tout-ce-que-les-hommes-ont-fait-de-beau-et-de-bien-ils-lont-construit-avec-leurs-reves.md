@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Tout ce que les hommes ont fait de beau et de bien, ils l'ont construit avec leurs rêves ...
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Citation]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/everything-beautiful-and-good-that-men-have-done-they-have-built-with-their-dreams
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-18-tout-ce-que-les-hommes-ont-fait-de-beau-et-de-bien-ils-lont-construit-avec-leurs-reves/
 
 ---
 

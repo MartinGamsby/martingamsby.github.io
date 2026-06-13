@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Être malade, c'est la pire chose
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Un à la fois,Santé,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/being-sick-is-the-worst
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-22-etre-malade-cest-la-pire-chose/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Je viens de regarder « Seul sur Mars » - L'humanité à la rescousse d'un astronaute
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Civilisation,Humanité,Philosophie,Science et technologie,Fiction,Priorités,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/post/cm1qpz8ng0006jw0c3ae8tpv8/images/9903cd0f-aadc-43dc-b7f3-2b5872741cf7-G3Wu2JPY3f6jhsvGAemWQ3NGkOoMyE.jfif
 ref: https://martingamsby.github.io/en/i-just-watched-the-martian-humanity-saving-a-stranded-astronaut
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-01-je-viens-de-regarder-seul-sur-mars-lhumanite-a-la-rescousse-dun-astronaute/
 
 ---
 

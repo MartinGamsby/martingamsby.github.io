@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Une ville roulante
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Urbanisme,Fiction,Éducation,Entreprises,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1hx269x002gmo0d609wy2y0/preview-image-iIxnNGO8h8b4VeUwc2LIWidScc4uBP.jfif
 ref: https://martingamsby.github.io/en/a-moving-city
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-25-une-ville-roulante/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: L’énergie noire pourrait-elle simplement être constituée de multiples trous noirs (lointains), vieux de plusieurs milliards d’années ?
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Science,Trou Noir,Astrophysique,Énergie Sombre,Big Bang,Supernova,Gravité,Radiation de Hawking,Théorie,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2ahfi7i008gl40cjwmp3gz6/preview-image-QwsKqpiRcVpytee3m576BTmcR18IBH.webp
 ref: https://martingamsby.github.io/en/could-dark-energy-simply-be-multiple-far-black-holes-quadrillions-of-years-old
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-15-lenergie-noire-pourrait-elle-simplement-etre-constituee-de-multiples-trous-noirs-lointains-vieux-de-plusieurs-milliards-dannees/
 
 ---
 

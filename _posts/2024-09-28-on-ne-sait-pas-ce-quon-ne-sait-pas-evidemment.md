@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: On ne sait pas ce qu'on ne sait pas (évidemment)
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé,Alimentation,Sommeil,Forme,Gym,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1mddzx3004djn0cog7madhv/preview-image-j0gpwHRoBWBG1VCVlJSByH1XulkSp0.jpg
 ref: https://martingamsby.github.io/en/you-dont-know-what-you-dont-know-obviously
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-28-on-ne-sait-pas-ce-quon-ne-sait-pas-evidemment/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Ah, le temps des fêtes (une tourtière à la fois)
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Tourtière,Coutume,Fêtes,Apprentissage,Motivation,Équilibre,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/ah-the-holiday-season-one-tourtiere-at-a-time
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-01-03-ah-le-temps-des-fetes-une-tourtiere-a-la-fois/
 
 ---
 

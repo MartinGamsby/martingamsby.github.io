@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: L'arche de Centauri (titre provisoire)
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Fiction,Science,Espace,Science-Fiction,Extrait,Gamsbook,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm23uordg00pzmh0c2odgkwa7/preview-image-hILg6abLoTI5PqLUpiIWiPI34oZapG.png
 ref: https://martingamsby.github.io/en/the-centauri-ark-working-title
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-09-larche-de-centauri-titre-provisoire/
 
 ---
 

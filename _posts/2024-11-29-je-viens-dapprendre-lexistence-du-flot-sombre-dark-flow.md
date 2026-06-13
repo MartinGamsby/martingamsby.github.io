@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Je viens d'apprendre l'existence du "Flot sombre" (Dark Flow)
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Science,Trou Noir,Astrophysique,Énergie Sombre,Big Bang,Supernova,Gravité,Radiation de Hawking,Théorie,ESBH,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2ahfi7i008gl40cjwmp3gz6/preview-image-QwsKqpiRcVpytee3m576BTmcR18IBH.webp
 ref: https://martingamsby.github.io/en/i-just-learned-about-dark-flow
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-29-je-viens-dapprendre-lexistence-du-flot-sombre-dark-flow/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le but de la vie, du point de vue de Gandalf
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Magie,Myers-Briggs,Personnalités,Raison d'Être,Purpose,Ikigai,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0cfphhf00lmlb0c67d036e8/preview-image-ZbYl0a55qAyhUN6BCOXlZ5YP58hVhB.jfif
 ref: https://martingamsby.github.io/en/what-life-is-all-about-from-gandalfs-perspective
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-19-le-but-de-la-vie-du-point-de-vue-de-gandalf/
 
 ---
 

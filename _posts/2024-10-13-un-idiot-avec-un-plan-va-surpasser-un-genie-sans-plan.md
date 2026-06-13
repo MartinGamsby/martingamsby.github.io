@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Un idiot AVEC un plan va surpasser un génie SANS plan
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Citation,Planification,Êtres chers,Gestion du temps,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm27obt5v0097lk0cn9bqej7a/preview-image-DC1gj05ORx69IEVdVkyOTMg36vltKq.webp
 ref: https://martingamsby.github.io/en/an-idiot-with-a-plan-will-beat-a-genius-without-a-plan
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-13-un-idiot-avec-un-plan-va-surpasser-un-genie-sans-plan/
 
 ---
 

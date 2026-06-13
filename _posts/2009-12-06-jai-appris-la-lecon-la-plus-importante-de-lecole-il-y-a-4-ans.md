@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: J’ai appris la leçon la plus importante de l’école, il y a 4 ans…
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Apprentissage,Entraînement vs Apprentissage,Langues,Organisation,Prenez le temps de gagner du temps,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/i-learned-the-most-important-lesson-from-school-4-years-ago
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2009-12-06-jai-appris-la-lecon-la-plus-importante-de-lecole-il-y-a-4-ans/
 
 ---
 

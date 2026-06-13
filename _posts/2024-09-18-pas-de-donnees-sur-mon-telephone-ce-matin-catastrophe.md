@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Pas de données sur mon téléphone ce matin, catastrophe?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé Mentale,Développement Personnel,Un à la fois,Habitudes,Méditation,Technologie,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm18lbm1b00y5jy0clal85apc/preview-image-BTh14ykZiH2bQyKett7moou2sTLzW1.jfif
 ref: https://martingamsby.github.io/en/no-data-on-my-phone-this-morning-disaster
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-18-pas-de-donnees-sur-mon-telephone-ce-matin-catastrophe/
 
 ---
 

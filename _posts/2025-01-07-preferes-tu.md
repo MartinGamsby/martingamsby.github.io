@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Préfères-tu
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé,Ne meurs pas,Bryan Johnson,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/would-you-rather
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2025-01-07-preferes-tu/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Arrêtez de manger de la malbouffe. Arrêtez de normaliser ce que l'industrie alimentaire veut
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Gluten,Santé,Nutrition,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/stop-eating-crap-food-stop-normalizing-what-the-food-industry-wants
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-12-12-arretez-de-manger-de-la-malbouffe-arretez-de-normaliser-ce-que-lindustrie-alimentaire-veut/
 
 ---
 

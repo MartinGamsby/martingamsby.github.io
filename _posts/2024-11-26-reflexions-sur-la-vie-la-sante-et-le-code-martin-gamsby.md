@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Réflexions sur la vie, la santé et le code - Martin Gamsby
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Podcast,Martin Gamsby,IA,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/reflections-on-life-health-and-code-martin-gamsby
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-26-reflexions-sur-la-vie-la-sante-et-le-code-martin-gamsby/
 
 ---
 

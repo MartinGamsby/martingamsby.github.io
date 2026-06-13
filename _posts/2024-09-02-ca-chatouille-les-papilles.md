@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Ça chatouille les papilles!
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Nouvelle Expression,Nouveau Mot,Le Saviez-Vous,FunFact,Science,Einstein,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0kyn69n02obk60cf6z7vqz2/preview-image-bmWXrPJcOzOxZWxcPC0vFQWxSjhvl1.jfif
 ref: https://martingamsby.github.io/en/falling-sensation
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-02-ca-chatouille-les-papilles/
 
 ---
 

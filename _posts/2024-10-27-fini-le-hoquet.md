@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Fini le hoquet
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Hoquet,Survie,Réflexes,Respiration,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2rmcbkc009sl80cutci2oc6/preview-image-1v66GHDdkYaJ8Ey4ClZMfAmXyH6NBt.png
 ref: https://martingamsby.github.io/en/no-more-hiccup
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-27-fini-le-hoquet/
 
 ---
 

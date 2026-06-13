@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le secret de mon professeur
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Apprendre,GamsblogGamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/my-teachers-secret
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-01-17-le-secret-de-mon-professeur/
 
 ---
 

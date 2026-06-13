@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Malade ? Blessé ?
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Motivation,Santé,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/are-you-sick-injured
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-21-malade-blesse/
 
 ---
 

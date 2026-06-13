@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Coder c'est facile, en fait
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/coding-is-easy-really
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-23-coder-cest-facile-en-fait/
 
 ---
 

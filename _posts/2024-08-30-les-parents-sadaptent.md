@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Les parents s'adaptent
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Parent,Enfant,TDAH,Neurodiversité,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0h0njjy00s4ml0cscbkstzr/preview-image-AYJWqweXuUVQzzqUYeAfy7zJKGvnk6.jpeg
 ref: https://martingamsby.github.io/en/parents-are-adapting
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-08-30-les-parents-sadaptent/
 
 ---
 

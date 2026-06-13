@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Informatique ou logiciel. Connaissez-vous la différence ?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Informatique,Logiciel,Analogie,Développement Logiciel,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1f8sism00jlld0cdyr4aw57/preview-image-zEPKDW2ifnHd1pEmddGCnVHWEoRbQV.jfif
 ref: https://martingamsby.github.io/en/it-or-software-do-you-know-the-difference
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-23-informatique-ou-logiciel-connaissez-vous-la-difference/
 
 ---
 

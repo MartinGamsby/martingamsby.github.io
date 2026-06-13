@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le plus simple n’est pas toujours le meilleur
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Simplicité,schtroumpf,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/simple-is-not-always-better
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-26-le-plus-simple-nest-pas-toujours-le-meilleur/
 
 ---
 

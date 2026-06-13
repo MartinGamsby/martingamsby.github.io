@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Musclez votre cerveau
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Confiance,Entraînement,Apprentissage,Gym,Entraînement vs Apprentissage,Gamsblog,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1tl8jj3000olb0cprxxkkxo/preview-image-wj32LDqeWauTkd7TFJ8ZNb2ifDUXfS.jfif
 ref: https://martingamsby.github.io/en/train-your-brain
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2009-11-09-musclez-votre-cerveau/
 
 ---
 

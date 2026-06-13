@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: L'informatique quantique est désormais une réalité
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Futur,Quantique,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/quantum-computing-is-now-a-reality
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-12-11-linformatique-quantique-est-desormais-une-realite/
 
 ---
 

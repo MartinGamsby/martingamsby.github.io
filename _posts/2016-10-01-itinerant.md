@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Itinérant
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/homeless
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2016-10-01-itinerant/
 
 ---
 

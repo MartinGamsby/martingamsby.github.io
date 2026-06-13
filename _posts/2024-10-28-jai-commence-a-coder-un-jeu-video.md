@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: J'ai commencé à coder un jeu vidéo
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Motivation,Passion,Projet,Code,Jeu,Priorités,Enfants,Écrire,Réflexion,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/i-started-coding-a-video-game
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-28-jai-commence-a-coder-un-jeu-video/
 
 ---
 

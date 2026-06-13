@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Être parent, c'est facile
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Parentalité,Santé mentale,Soins personnels,Priorités,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/being-a-parent-is-easy
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-02-etre-parent-cest-facile/
 
 ---
 

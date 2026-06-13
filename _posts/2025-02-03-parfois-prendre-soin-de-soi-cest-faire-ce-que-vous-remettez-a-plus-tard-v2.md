@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Parfois, prendre soin de soi, c'est faire ce que vous remettez à plus tard. V2
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Finance,Santé,Soin Personnel,Santé Mentale,Productivité,Stress,Relaxation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0pysw6n0213kz0cru8vdzfd/preview-image-YQ1xYBhkLp7wjEXXgpllN6ATULINRT.jfif
 ref: https://martingamsby.github.io/en/self-care-isnt-what-you-think-stop-lying-to-yourself
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2025-02-03-parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard-v2/
 
 ---
 

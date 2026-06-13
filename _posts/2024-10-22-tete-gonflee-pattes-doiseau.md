@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Tête gonflée, pattes d'oiseau
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Espace,Science,Santé,Gravité,Exercice,ISS,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/puffy-head-bird-legs
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-10-22-tete-gonflee-pattes-doiseau/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Wow, c'est la moisissure?
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Gamsblur,moisissure,santé]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/wow-it-might-be-mold
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2025-07-20-wow-cest-la-moisissure/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: l'IA au pouvoir? (hear me out)
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Intelligence Artificielle,IA,Politique,Vol,Un à la fois,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm13jx1u1000ilc0c1m1by799/preview-image-bbgfvSJxKSNy7NVg0CSVKhNHVye1B2.jfif
 ref: https://martingamsby.github.io/en/ai-for-president-hear-me-out
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-15-lia-au-pouvoir-hear-me-out/
 
 ---
 

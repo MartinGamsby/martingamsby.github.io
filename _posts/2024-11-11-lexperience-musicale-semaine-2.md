@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: L'expérience musicale - Semaine 2
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [JeuVideo,Musique,DevLog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/the-musical-experience-week-2
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-11-lexperience-musicale-semaine-2/
 
 ---
 

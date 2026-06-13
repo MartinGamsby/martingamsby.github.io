@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Vous savez comment l’IA est vraiment nulle pour générer du texte dans les images et les vidéos ?
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/you-know-how-ai-is-really-bad-at-generating-text-in-images-and-videos
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-12-23-vous-savez-comment-lia-est-vraiment-nulle-pour-generer-du-texte-dans-les-images-et-les-videos/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Littéralement, totalement  transparentes,
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Fiction,Banque,Argent,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/literally-totally-transparent
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-11-litteralement-totalement-transparentes/
 
 ---
 

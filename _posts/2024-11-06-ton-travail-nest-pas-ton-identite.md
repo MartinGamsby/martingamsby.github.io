@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Ton travail n'est pas ton identité
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Identité,croissance,perspective,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/your-job-is-not-your-identity
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-11-06-ton-travail-nest-pas-ton-identite/
 
 ---
 

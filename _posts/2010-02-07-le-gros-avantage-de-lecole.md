@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le GROS avantage de l’école
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [École,Apprendre,Un à la fois,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/the-big-advantage-of-school
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-02-07-le-gros-avantage-de-lecole/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Ce qui peut tout gâcher
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/your-brain-injuries
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2009-12-13-ce-qui-peut-tout-gacher/
 
 ---
 

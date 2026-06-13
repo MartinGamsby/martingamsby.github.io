@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Mathématicien
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/mathematician
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2017-03-01-mathematicien/
 
 ---
 

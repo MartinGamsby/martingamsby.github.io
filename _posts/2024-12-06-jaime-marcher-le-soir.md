@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: J'aime marcher le soir
 categories: ["Longueur: Mini", "Gamsblurb"]
 tags: [Marche,Santé,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/i-like-walking-in-the-evening
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-12-06-jaime-marcher-le-soir/
 
 ---
 

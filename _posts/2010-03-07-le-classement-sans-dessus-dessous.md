@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Le classement sans dessus dessous
 categories: ["Longueur: Moyen", "Gamsblurb"]
 tags: [Gamsblog,Organisation,Apprendre,Gamsblurb]
 excerpt_image: http://comment-apprendre.com/apprendre%20en%20gagnant%20du%20temps.jpg
 ref: https://martingamsby.github.io/en/the-big-advantage-of-school
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2010-03-07-le-classement-sans-dessus-dessous/
 
 ---
 

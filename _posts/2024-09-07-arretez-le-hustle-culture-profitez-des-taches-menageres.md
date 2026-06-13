@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Arrêtez le hustle culture, profitez des tâches ménagères
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Santé Mentale,Productivité,Développement Personnel,Habitudes,TDAH,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0srl4te0000lc0c80rery4e/preview-image-uIPnYyafTV1aZnpPzmuNeiLEN7g8ro.jpg
 ref: https://martingamsby.github.io/en/stop-hustling-enjoy-chores
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2024-09-07-arretez-le-hustle-culture-profitez-des-taches-menageres/
 
 ---
 

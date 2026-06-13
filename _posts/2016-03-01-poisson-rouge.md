@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Poisson Rouge
 categories: ["Longueur: Court", "Gamsblurb"]
 tags: [Guide Pour,Interverti (Roman),Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/en/goldfish
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/fr/blog/2016-03-01-poisson-rouge/
 
 ---
 
